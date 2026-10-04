@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Sarah Johnson",
+        "role": "Tech Enthusiast",
+        "content": "The drone reviews here are incredibly detailed and helped me choose the perfect DJI Air 3 for my photography business. The comparison charts are especially useful!",
+        "rating": 5,
+        "avatar": "/professional-woman-smiling-headshot.png"
+    },
+    {
+        "name": "Mike Chen",
+        "role": "DIY Homeowner",
+        "content": "I was overwhelmed by cordless drill options until I found this site. The detailed testing results and real-world usage scenarios made my decision easy.",
+        "rating": 5,
+        "avatar": "/smiling-middle-aged-man.png"
+    },
+    {
+        "name": "Emily Rodriguez",
+        "role": "Fitness Coach",
+        "content": "The smartwatch reviews are spot-on! I recommended the Apple Watch Series 9 to all my clients based on the comprehensive health tracking analysis here.",
+        "rating": 5,
+        "avatar": "/young-woman-fitness-coach-smiling-headshot.jpg"
+    },
+    {
+        "name": "David Thompson",
+        "role": "Audio Engineer",
+        "content": "As someone who works in audio, I appreciate the technical depth of the soundbar reviews. The frequency response charts and room acoustics advice are invaluable.",
+        "rating": 5,
+        "avatar": "/professional-man-with-headphones-smiling-headshot.jpg"
+    }
+]

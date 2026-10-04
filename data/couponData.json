@@ -1,0 +1,3035 @@
+[
+    {
+        "id": 1,
+        "name": "DJI Mini 4K, Drone with 4K UHD Camera for Adults, Under 249 g, 3-Axis Gimbal Stabilization, 10km Video Transmission, Auto Return, Wind Resistance, 1 Battery for 31-Min Max Flight Time, Intelligent Flight",
+        "brand": "DJI",
+        "price": 249.00,
+        "originalPrice": 299.00,
+        "category": "Drones",
+        "rating": 9.5,
+        "reviews": 18050,
+        "badge": "Amazon's Choice",
+        "image": "/images/drone/5/5A.jpg",
+        "images": [
+            "/images/drone/5/5B.jpg",
+            "/images/drone/5/5C.jpg",
+            "/images/drone/5/5D.jpg",
+            "/images/drone/5/5E.jpg"
+        ],
+        "description": "The DJI Mini 4K is a lightweight drone under 249 g designed for adults and beginners. It features a 4K UHD camera with a 3-axis gimbal, 10km HD video transmission, 38kph wind resistance, and up to 31 minutes of flight time per battery. With intelligent QuickShots, GPS return to home, and beginner-friendly controls, it is ideal for cinematic aerial footage and recreational flying.",
+        "features": [
+            "No FAA Registration Needed - Under 249 g",
+            "4K UHD Camera with 3-Axis Gimbal for cinematic shooting",
+            "10km HD Video Transmission",
+            "38kph (Level 5) Wind Resistant with brushless motors",
+            "Up to 31 minutes per battery with 1/2/3 battery options",
+            "Beginner-friendly with one-tap takeoff/landing & GPS RTH",
+            "Intelligent QuickShots: Helix, Dronie, Rocket, Circle, Boomerang"
+        ],
+        "specifications": {
+            "Model Name": "Mini 4K",
+            "Special Feature": "10km HD Video Transmission, 3-Axis Gimbal, 4K Ultra HD, Under 249 g, 38kph Wind Resistant",
+            "Age Range": "Adult",
+            "Color": "Gray",
+            "Video Capture Resolution": "4K",
+            "Effective Still Resolution": "12 MP",
+            "Connectivity": "Bluetooth, Wi-Fi",
+            "Included Components": "DJI Mini 4K, Remote Controller, Intelligent Flight Battery, RC Cables (Lightning, Micro-USB, USB-C), Gimbal Protector, Propellers, Screwdriver, Spare Screws, USB-C Data Cable",
+            "Skill Level": "Beginner, All",
+            "Item Weight": "246 g (8.7 oz)",
+            "Video Capture Format": "MP4",
+            "Remote Control Technology": "DJI O2",
+            "Control Type": "Remote Control",
+            "Maximum Range": "10 km",
+            "Material": "Advanced lightweight material",
+            "Battery Type": "Lithium Ion",
+            "Are Batteries Included": "Yes",
+            "Supported Image Format": "DNG, JPEG",
+            "Video Output Resolution": "4K",
+            "Optical Sensor Technology": "CMOS",
+            "Rechargeable Battery Included": "Yes",
+            "Product Dimensions": "9.65 x 11.37 x 2.2 inches",
+            "UPC": "190021105430",
+            "ASIN": "B0CXJDDJ9X",
+            "Manufacturer": "DJI",
+            "Item Model Number": "6941565980328"
+        },
+        "inStock": true,
+        "bestseller": true,
+        "alibabaUrl": "https://amzn.to/42PktxA",
+        "reviewSummary": {
+            "summary": "Customers love the DJI Mini 4K for its ease of use, outstanding 4K UHD video quality, and lightweight design that doesn’t require FAA registration. Many find it a perfect beginner drone with excellent value for money. However, some note mixed experiences with battery life and occasional performance issues.",
+            "pros": [
+                "Lightweight and regulation-friendly (under 249 g)",
+                "High-quality 4K UHD video and photos",
+                "Stable flight even in windy conditions",
+                "Beginner-friendly controls with GPS RTH",
+                "Excellent value for money"
+            ],
+            "cons": [
+                "Battery life could be longer",
+                "Some users report functionality issues",
+                "App not available on Google Play"
+            ],
+            "verdict": "The DJI Mini 4K is a fantastic entry-level drone offering advanced features in a compact, affordable package. Ideal for beginners and casual flyers who want cinematic aerial footage without FAA registration."
+        },
+        "userReviews": [
+            {
+                "reviewer": "Tino",
+                "rating": 10.0,
+                "title": "Great Drone , A Must Get !!!",
+                "review": "Great drone for any beginner especially those not thinking of buying anything more expensive. Easy to use, lightweight, very fast, with clear photos/videos. Highly recommend buying this drone!",
+                "date": "August 20, 2025"
+            },
+            {
+                "reviewer": "Lori",
+                "rating": 10.0,
+                "title": "Incredible drone! Beautiful Video and Photos! Easy to fly!",
+                "review": "My first drone and I love it! So much fun to fly and excellent 4k video and photo quality. The app is easy to use and helps you learn quickly.",
+                "date": "September 8, 2025"
+            },
+            {
+                "reviewer": "Ray Reuter",
+                "rating": 10.0,
+                "title": "Excellent Quality and ease of use",
+                "review": "Incredibly easy to set up, easy to fly, and great quality pictures for the price. Compact and perfect for quick trips.",
+                "date": "August 14, 2025"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "DJI Mini 4K Camera Drone Combo, Drone with 4K UHD Camera for Adults, Under 249 g, 3-Axis Gimbal Stabilization, 10km Video Transmission, Auto Return, 2 Batteries for 62-Min Max Flight Time, QuickShots",
+        "brand": "DJI",
+        "price": 329.00,
+        "originalPrice": 389.00,
+        "category": "Affordable Drone",
+        "rating": 9.5,
+        "reviews": 18050,
+        "badge": "#1 Best Seller",
+        "image": "/images/drone/16/16A.jpg",
+        "images": [
+            "/images/drone/16/16B.jpg",
+            "/images/drone/16/16C.jpg",
+            "/images/drone/16/16D.jpg",
+            "/images/drone/16/16E.jpg"
+        ],
+        "description": "The DJI Mini 4K Camera Drone Combo is a compact, beginner-friendly drone under 249g with 4K UHD video, 3-axis gimbal stabilization, 10km HD video transmission, and up to 62 minutes of flight time with 2 batteries included.",
+        "features": [
+            "No registration required for recreational use (under 249g)",
+            "4K Ultra HD video and 12MP photos",
+            "3-axis gimbal for cinematic stabilization",
+            "Resistant to 38kph (Level 5) wind",
+            "10km max HD video transmission with strong anti-interference",
+            "Beginner-friendly one-tap takeoff, GPS Return-to-Home, and stable hovering",
+            "Extended battery life with 2-battery combo (62-min max flight)",
+            "QuickShots for creative filming",
+            "Includes gimbal protector, propellers, remote controller, shoulder bag, and accessories"
+        ],
+        "specifications": {
+            "Model Name": "Mini 4K",
+            "Special Feature": "10km HD Video Transmission, 3-Axis Gimbal, 4K Ultra HD, Under 249 g, Regulation Friendly, 38kph (Level 5) Wind Resistant",
+            "Age Range": "Adult",
+            "Color": "Gray",
+            "Video Capture Resolution": "4K",
+            "Effective Still Resolution": "12 MP",
+            "Connectivity Technology": "Bluetooth",
+            "Included Components": "DJI Mini 2 Intelligent Flight Battery ×2, DJI Mini 4K ×1, DJI RC-N1 RC Cables ×3 (Lightning, Micro-USB, USB-C), DJI RC-N1C Remote Controller ×1, Gimbal Protector, Propeller, Propeller Holder, Screwdriver, Shoulder Bag ×1, Spare Screws ×18, USB-C Data Cable ×1",
+            "Item Weight": "246 Grams",
+            "Video Capture Format": "MP4",
+            "Control Type": "Remote Control",
+            "Maximum Range": "10 Kilometers",
+            "Wireless Communication Technology": "Wi-Fi",
+            "Battery Cell Composition": "Lithium Ion",
+            "Are Batteries Included": "Yes",
+            "Remote Control Included": "Yes",
+            "Optical Sensor Technology": "CMOS",
+            "Rechargeable Battery Included": "Yes",
+            "Product Dimensions": "9.65 x 11.37 x 2.2 inches",
+            "Manufacturer": "DJI",
+            "Item Weight (oz)": "8.7 ounces",
+            "ASIN": "B0F4WZ3Q2J",
+            "Item model number": "M1615P",
+            "Batteries": "2 C batteries required (included)"
+        },
+        "inStock": true,
+        "bestseller": true,
+        "alibabaUrl": "https://amzn.to/4mzrjOQ",
+        "reviewSummary": {
+            "summary": "The DJI Mini 4K Drone Combo is praised for its easy setup, stability in flight, and excellent 4K video quality. Ideal for beginners and casual aerial photographers. Battery life and some functionality receive mixed reviews.",
+            "pros": [
+                "Compact and lightweight under 249g",
+                "4K UHD video with 3-axis gimbal stabilization",
+                "Beginner-friendly controls with auto return and GPS",
+                "Resistant to Level 5 winds (38kph)",
+                "Extended flight time with 2 batteries included"
+            ],
+            "cons": [
+                "Some users report battery life shorter than advertised",
+                "Advanced filming features may take time to master"
+            ],
+            "verdict": "A beginner-friendly, regulation-friendly drone delivering cinematic 4K footage and long flight times, ideal for both recreational use and learning aerial photography."
+        },
+        "userReviews": [
+            {
+                "reviewer": "Ammar",
+                "rating": 10.0,
+                "title": "Best video quality for light drone",
+                "review": "Nice drone. Very strong, survived a crash into a tree. Light, stable flying, excellent 4K video. Ideal for beginners.",
+                "date": "August 31, 2025"
+            },
+            {
+                "reviewer": "Lori",
+                "rating": 10.0,
+                "title": "Incredible drone! Beautiful Video and Photos! Easy to fly!",
+                "review": "My first drone and I love it! Easy to fly with great video and photo quality. App is user-friendly.",
+                "date": "September 8, 2025"
+            },
+            {
+                "reviewer": "Ray Reuter",
+                "rating": 10.0,
+                "title": "Excellent Quality and ease of use",
+                "review": "Easy to set up, fly, and store. Small form factor, excellent pictures for the price.",
+                "date": "August 14, 2025"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "DJI Mini 4K Fly More Combo, Drone with 4K UHD Camera for Adults, Under 249 g, 3-Axis Gimbal Stabilization, 10km Video Transmission, Auto Return, 3 Batteries for 93-Min Max Flight Time, QuickShots",
+        "brand": "DJI",
+        "price": 379.00,
+        "originalPrice": 449.00,
+        "category": "Budget Drone",
+        "rating": 9.5,
+        "reviews": 18050,
+        "badge": "Amazon's Choice",
+        "image": "/images/drone/19/19A.jpg",
+        "images": [
+            "/images/drone/19/19B.jpg",
+            "/images/drone/19/19C.jpg",
+            "/images/drone/19/19D.jpg",
+            "/images/drone/19/19E.jpg"
+        ],
+        "description": "The DJI Mini 4K Fly More Combo is a compact, beginner-friendly drone under 249g with 4K UHD video, 3-axis gimbal stabilization, 10km HD video transmission, and up to 93 minutes of flight time with 3 batteries included.",
+        "features": [
+            "No registration required for recreational use (under 249g)",
+            "4K Ultra HD video and 12MP photos",
+            "3-axis gimbal for cinematic stabilization",
+            "Resistant to 38kph (Level 5) wind",
+            "10km max HD video transmission with strong anti-interference",
+            "Beginner-friendly one-tap takeoff, GPS Return-to-Home, and stable hovering",
+            "Extended battery life with 3-battery combo (93-min max flight)",
+            "QuickShots for creative filming",
+            "Includes gimbal protector, propellers, remote controller, shoulder bag, and accessories"
+        ],
+        "specifications": {
+            "Model Name": "Mini 4K",
+            "Special Feature": "249 g Foldable Body, Regulation Friendly, 3-Axis Gimbal, 4K UHD Camera, Long Distance Control, One Button Return",
+            "Age Range": "Adult",
+            "Color": "Gray",
+            "Video Capture Resolution": "4K",
+            "Effective Still Resolution": "12 MP",
+            "Connectivity Technology": "Bluetooth, Wi-Fi",
+            "Included Components": "DJI Mini 2 Intelligent Flight Battery ×3, DJI Mini 2 Two-Way Charging Hub ×1, DJI Mini 4K ×1, DJI RC-N1 RC Cables ×3 (Lightning, Micro-USB, USB-C), DJI RC-N1C Remote Controller ×1, Gimbal Protector, Propeller, Propeller Holder, Screwdriver, Shoulder Bag ×1, Spare Screws ×18, USB-C Data Cable ×1",
+            "Item Weight": "0.24 Kilograms",
+            "Battery Capacity": "93",
+            "Video Capture Format": "MP4",
+            "Control Type": "Remote Control",
+            "Maximum Range": "10 Kilometers",
+            "Material": "Plastic",
+            "Wireless Communication Technology": "Wi-Fi",
+            "Battery Cell Composition": "Lithium Ion",
+            "Are Batteries Included": "Yes",
+            "Remote Control Included": "Yes",
+            "Optical Sensor Technology": "CMOS",
+            "Rechargeable Battery Included": "Yes",
+            "Operating Temperature": "14 Degrees Fahrenheit",
+            "Supported Image Format": "JPEG",
+            "Video Output Resolution": "4K",
+            "Product Dimensions": "9.65 x 11.37 x 2.2 inches",
+            "UPC": "190021105423",
+            "Manufacturer": "DJI",
+            "Item Weight (oz)": "8.4 ounces",
+            "ASIN": "B0CXJCXN17",
+            "Item model number": "6941565980311",
+            "Batteries": "3 CR5 batteries required (included)"
+        },
+        "inStock": true,
+        "bestseller": true,
+        "alibabaUrl": "https://amzn.to/3VxqVWh",
+        "reviewSummary": {
+            "summary": "The DJI Mini 4K Fly More Combo is praised for its easy setup, stability in flight, and excellent 4K video quality. Ideal for beginners and casual aerial photographers. Battery life and some functionality receive mixed reviews.",
+            "pros": [
+                "Compact and lightweight under 249g",
+                "4K UHD video with 3-axis gimbal stabilization",
+                "Beginner-friendly controls with auto return and GPS",
+                "Resistant to Level 5 winds (38kph)",
+                "Extended flight time with 3 batteries included"
+            ],
+            "cons": [
+                "Some users report battery life shorter than advertised",
+                "Advanced filming features may take time to master"
+            ],
+            "verdict": "A beginner-friendly, regulation-friendly drone delivering cinematic 4K footage and long flight times, ideal for both recreational use and learning aerial photography."
+        },
+        "userReviews": [
+            {
+                "reviewer": "Ammar",
+                "rating": 10.0,
+                "title": "Best video quality for light drone",
+                "review": "Nice drone. Very strong, survived a crash into a tree. Light, stable flying, excellent 4K video. Ideal for beginners.",
+                "date": "August 31, 2025"
+            },
+            {
+                "reviewer": "Lori",
+                "rating": 10.0,
+                "title": "Incredible drone! Beautiful Video and Photos! Easy to fly!",
+                "review": "My first drone and I love it! Easy to fly with great video and photo quality. App is user-friendly.",
+                "date": "September 8, 2025"
+            },
+            {
+                "reviewer": "Ray Reuter",
+                "rating": 10.0,
+                "title": "Excellent Quality and ease of use",
+                "review": "Easy to set up, fly, and store. Small form factor, excellent pictures for the price.",
+                "date": "August 14, 2025"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Force1 Scoot Hand Operated Drone for Kids or Adults - Hands Free Motion Sensor Mini Drones, Easy LED Indoor Rechargeable UFO Toy Flying Orb Ball Drone Toys (Blue)",
+        "brand": "Force1",
+        "price": 19.99,
+        "originalPrice": 29.99,
+        "category": "Cheap Drone",
+        "rating": 8.0,
+        "reviews": 23356,
+        "badge": null,
+        "image": "/images/drone/20/20A.jpg",
+        "images": [
+            "/images/drone/20/20B.jpg",
+            "/images/drone/20/20C.jpg",
+            "/images/drone/20/20D.jpg",
+            "/images/drone/20/20E.jpg"
+        ],
+        "description": "The Force1 Scoot Hand Operated Drone is a beginner-friendly, indoor drone for kids and adults. It features motion sensors for hand-guided flight, vibrant LED lights, a durable webbed shell for safety, and USB rechargeable battery for up to 8 minutes of fun.",
+        "features": [
+            "Hand-operated, no remote needed",
+            "Smart 360° obstacle avoidance motion sensors",
+            "Vibrant LED lights for visual fun",
+            "Durable webbed shell protects hands and furniture",
+            "USB rechargeable battery included",
+            "Indoor hover drone ideal for beginners",
+            "Compact size for easy handling",
+            "Fun for kids and adults ages 8 and up",
+            "STEM-certified educational toy"
+        ],
+        "specifications": {
+            "Model Name": "Scoot Blue",
+            "Special Feature": "Hand Operated, Rechargeable Battery, Sensors with 360° Obstacle Avoidance, Vibrant LEDs, Webbed Shell Design",
+            "Age Range": "Kids and Adults",
+            "Color": "Blue",
+            "Connectivity Technology": "USB",
+            "Included Components": "Product Manual, Scoot Drone - Blue, USB Charging Cable",
+            "Skill Level": "Beginner",
+            "Item Weight": "0.07 Pounds",
+            "Control Type": "Hand Operated",
+            "Material": "Webbed shell",
+            "Wireless Communication Technology": "No",
+            "Battery Cell Composition": "Lithium Ion",
+            "Are Batteries Included": "Yes",
+            "Supported Image Format": "JPEG",
+            "Remote Control Included": "No",
+            "Optical Sensor Technology": "CMOS, optical flow",
+            "Rechargeable Battery Included": "Yes",
+            "Product Dimensions": "4.7 x 4.7 x 2 inches",
+            "UPC": "850010378756",
+            "Manufacturer": "Force1",
+            "Item Weight (oz)": "1.12 ounces",
+            "ASIN": "B07CVFWVF5",
+            "Item model number": "RC131",
+            "Manufacturer recommended age": "8 years and up",
+            "Batteries": "1 Lithium Polymer battery required (included)"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/3VxqXxn",
+        "reviewSummary": {
+            "summary": "The Force1 Scoot drone is fun, easy to fly, and suitable for beginners. Mixed reviews highlight issues with durability and battery life, but excellent customer support is noted.",
+            "pros": [
+                "Hand-operated, no remote required",
+                "Smart motion sensors with obstacle avoidance",
+                "Vibrant LED lights for visual fun",
+                "Durable webbed shell for safety",
+                "USB rechargeable battery included"
+            ],
+            "cons": [
+                "Short battery life (approx. 8 minutes per charge)",
+                "Some users report durability issues",
+                "May frequently crash indoors if not careful"
+            ],
+            "verdict": "A fun, beginner-friendly indoor drone ideal for kids and adults, offering hands-free flight, LED lights, and safety features. Great for entertainment and STEM learning despite minor durability concerns."
+        },
+        "userReviews": [
+            {
+                "reviewer": "marcy osterhaudt",
+                "rating": 10.0,
+                "title": "Had issues but company resolved after review",
+                "review": "This is so much fun when it works. It belongs to my 6 year old but her 13 year old brother has just as much fun. First one broke, replacement worked fine.",
+                "date": "July 2, 2025"
+            },
+            {
+                "reviewer": "Walter",
+                "rating": 10.0,
+                "title": "Very entertaining toy",
+                "review": "I purchased it to entertain my dog and he absolutely loves it. Great product!",
+                "date": "August 14, 2025"
+            },
+            {
+                "reviewer": "Benjamin Neumann",
+                "rating": 10.0,
+                "title": "Fun toy, GREAT customer service",
+                "review": "My son fell in love with this toy. Original drone stopped working after one use, but company quickly sent a replacement.",
+                "date": "February 2, 2023"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "DJI Mini 3 Pro (DJI RC), Mini Drone with 4K Video, 48MP Photo, 34 Mins Flight Time, Less than 249 g, Obstacle Sensing, Return to Home, FAA Remote ID Compliant, Drone with Camera for Adults",
+        "brand": "DJI",
+        "price": 1099.99,
+        "originalPrice": 1130.99,
+        "category": "Camera Drone",
+        "rating": 9.5,
+        "reviews": 11398,
+        "badge": "",
+        "image": "/images/drone/27/27A.jpg",
+        "images": [
+            "/images/drone/27/27B.jpg",
+            "/images/drone/27/27C.jpg",
+            "/images/drone/27/27D.jpg",
+            "/images/drone/27/27E.jpg"
+        ],
+        "description": "The DJI Mini 3 Pro is an ultra-lightweight foldable drone under 249 g with 4K/60fps video and 48MP photo capability. It features tri-directional obstacle sensing, extended 34-minute flight time, True Vertical Shooting, and intelligent flight modes for professional-level photography in a compact form.",
+        "features": [
+            "4K/60fps video recording and 48MP photo capture",
+            "Weighs less than 249g, foldable and portable",
+            "Tri-directional obstacle sensing and APAS 4.0",
+            "Extended flight time up to 34 minutes",
+            "True Vertical Shooting for social media content",
+            "Intelligent flight modes: FocusTrack, MasterShots, Timelapse, QuickTransfer",
+            "DJI RC with built-in 5.5-inch HD display",
+            "Dual native ISO and f/1.7 aperture for high-quality imagery"
+        ],
+        "specifications": {
+            "Model Name": "DJIMINI3PSC",
+            "Special Feature": "Foldable, Lightweight, Obstacle Avoidance, One Button Return",
+            "Age Range": "Adult",
+            "Color": "Grey",
+            "Video Capture Resolution": "4K",
+            "Effective Still Resolution": "48 MP",
+            "Connectivity Technology": "Bluetooth",
+            "Included Components": "DJI RC x 1, DJI Mini 3 Pro Intelligent Flight Battery x 1, Spare Propellers (Pair) x 1, Gimbal Protector x 1, Type-C to Type-C PD Cable x 1, Screwdriver x 1, Screws x 6",
+            "Skill Level": "Professional",
+            "Item Weight": "249 Grams",
+            "Video Capture Format": "MP4/MOV",
+            "Control Type": "Remote Control",
+            "Maximum Range": "12 Kilometers",
+            "Wireless Communication Technology": "Wi-Fi",
+            "Battery Cell Composition": "Lithium Ion",
+            "Are Batteries Included": "Yes",
+            "Operating Temperature": "40 Degrees Celsius",
+            "Video Output Resolution": "1920x1080 Pixels",
+            "Remote Control Included": "Yes",
+            "Rechargeable Battery Included": "Yes",
+            "Product Dimensions": "14.3 x 9.9 x 2.8 inches",
+            "Manufacturer": "DJI",
+            "Item model number": "CP.MA.00000492.01",
+            "Batteries": "1 Lithium Polymer battery required (included)",
+            "Manufacturer Part Number": "CP.MA.00000492.01",
+            "Voltage": "7.38 Volts"
+        },
+        "inStock": true,
+        "bestseller": true,
+        "alibabaUrl": "https://amzn.to/46D6FHT",
+        "reviewSummary": {
+            "summary": "The DJI Mini 3 Pro is a high-performance, compact drone ideal for professional-level aerial photography. Users praise its lightweight design, camera quality, and intelligent flight features, though a few report occasional gimbal issues.",
+            "pros": [
+                "Compact, foldable, and lightweight under 249g",
+                "4K/60fps video and 48MP photos with advanced camera sensor",
+                "Tri-directional obstacle sensing and APAS 4.0",
+                "Intelligent flight modes for creative shooting",
+                "Extended 34-minute flight time"
+            ],
+            "cons": [
+                "Some users report gimbal malfunction issues",
+                "High price compared to entry-level drones"
+            ],
+            "verdict": "A premium compact drone combining portability with professional-grade camera quality and safety features, perfect for enthusiasts and pros looking for a lightweight, high-performance UAV."
+        },
+        "userReviews": [
+            {
+                "reviewer": "Chad Gilbert",
+                "rating": 10.0,
+                "title": "A Top-Notch Drone – Twice a Winner",
+                "review": "I am now the proud owner of two DJI Mini 3 Pro drones, and I can't sing their praises enough. A testament to quality and innovation.",
+                "date": "July 31, 2023"
+            },
+            {
+                "reviewer": "M.M.",
+                "rating": 10.0,
+                "title": "Fantastico! semplice da usare e qualità delle immagini stratosferica",
+                "review": "The DJI Mini 3 is light and maneuverable, with obstacle sensors and 48MP camera allowing 4K/60FPS video with HDR.",
+                "date": "October 31, 2023"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "DJI Mini 4 Pro Fly More Combo Plus with DJI RC 2, Drones with Camera for Adults 4K, 3 Intelligent Flight Battery Plus for up to 135 Mins Flight Time, Smart Return to Home, Drone for Beginners",
+        "brand": "DJI",
+        "price": 1159.00,
+        "originalPrice": 1259.00,
+        "category": "Beginner Drone",
+        "rating": 9.5,
+        "reviews": 6274,
+        "badge": "Amazon's Choice",
+        "image": "/images/drone/45/45A.jpg",
+        "images": [
+            "/images/drone/45/45B.jpg",
+            "/images/drone/45/45C.jpg",
+            "/images/drone/45/45D.jpg",
+            "/images/drone/45/45E.jpg"
+        ],
+        "description": "The DJI Mini 4 Pro Fly More Combo Plus is a professional-grade drone under 249g with 4K camera, omnidirectional obstacle sensing, and extended battery life. With three Intelligent Flight Battery Plus units, it provides up to 135 minutes of flight time. Ideal for beginners and hobbyists, this drone includes DJI RC 2 remote control, foldable lightweight design, and enhanced obstacle avoidance for safe and easy flights.",
+        "features": [
+            "4K vertical video at 60fps HDR",
+            "Omnidirectional obstacle sensing for enhanced safety",
+            "Up to 135 minutes of flight time with three Intelligent Flight Battery Plus units",
+            "20 km FHD real-time video transmission",
+            "ActiveTrack 360° intelligent tracking and complex flight paths",
+            "Foldable, lightweight, and portable design",
+            "Beginner-friendly with Smart Return to Home"
+        ],
+        "specifications": {
+            "Model Name": "DJI Mini 4 Pro",
+            "Age Range": "Adult",
+            "Color": "Gray",
+            "Video Capture Resolution": "4K",
+            "Effective Still Resolution": "48 MP",
+            "Connectivity Technology": "Bluetooth, Wi-Fi",
+            "Skill Level": "Beginner; All",
+            "Item Weight": "249 grams",
+            "Battery Capacity": "2590 mAh per battery",
+            "Maximum Range": "20 kilometers",
+            "Material": "Aluminum, Carbon Fiber",
+            "Battery Cell Composition": "Lithium Ion",
+            "Batteries Included": "Yes (3 included)",
+            "Supported Image Format": "DNG, JPEG",
+            "Video Output Resolution": "4K",
+            "Optical Sensor Technology": "CMOS",
+            "Product Dimensions": "5.83 x 3.7 x 2.52 inches",
+            "Control Type": "Remote Control",
+            "Wireless Communication Technology": "Wi-Fi",
+            "Remote Control Included?": "Yes",
+            "Operating Temperature": "40°C"
+        },
+        "inStock": true,
+        "bestseller": true,
+        "alibabaUrl": "https://amzn.to/46uUTis",
+        "reviewSummary": {
+            "pros": [
+                "Professional-grade 4K camera with vertical video support",
+                "Omnidirectional obstacle avoidance ensures safe flights",
+                "Extended battery life with 3 Intelligent Flight Battery Plus units",
+                "Beginner-friendly with Smart Return to Home and ActiveTrack 360°",
+                "Lightweight and foldable design for easy transport"
+            ],
+            "cons": [
+                "High price point",
+                "Battery and functionality issues reported by some users",
+                "May be overkill for casual flyers"
+            ],
+            "verdict": "The DJI Mini 4 Pro Fly More Combo Plus is an outstanding drone for both beginners and professionals seeking high-quality 4K video, extended flight time, and reliable obstacle avoidance. Despite the high cost, its features and performance make it worth the investment."
+        },
+        "userReviews": [
+            {
+                "username": "Amazon Customer",
+                "rating": 10.0,
+                "title": "Buy it, you will not regret it!",
+                "review": "What an amazing drone. So easy to control. Amazing picture quality. Handy for inspections and fun flights. Flight times are good depending on usage. Turned off obstacle avoidance for more speed and ended up flying backwards into a tree while chasing a fox.",
+                "date": "July 26, 2025"
+            },
+            {
+                "username": "T-money",
+                "rating": 10.0,
+                "title": "Buy this one it's the first worth your money drone.",
+                "review": "Range is very good with clear line of sight. Fast compared to other camera drones. Pictures are great, and the remote screen is convenient.",
+                "date": "August 29, 2025"
+            },
+            {
+                "username": "CyberFox",
+                "rating": 10.0,
+                "title": "This is an amazing drone",
+                "review": "Best drone I've flown, even better than more expensive models. Marketed for beginners but has professional features and quality.",
+                "date": "April 13, 2024"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Holy Stone HS600 2-Axis Gimbal Drones with Camera for Adults 4K EIS, Integrated Remote ID, 20000 FT Range Transmission, GPS Drone with Brushless Motors, 4K/30FPS, Follow Me, Level 6 Wind Resistance",
+        "brand": "Holy Stone",
+        "price": 329.99,
+        "originalPrice": 359.99,
+        "category": "Holy Stone Drone",
+        "rating": 8.5,
+        "reviews": 4918,
+        "image": "/images/drone/29/29A.jpg",
+        "images": [
+            "/images/drone/29/29B.jpg",
+            "/images/drone/29/29C.jpg",
+            "/images/drone/29/29D.jpg",
+            "/images/drone/29/29E.jpg"
+        ],
+        "description": "The Holy Stone HS600 is a GPS drone with a 2-axis gimbal and 4K EIS camera for adults. It features integrated Remote ID, long-range transmission up to 20,000 ft, brushless motors, Follow Me mode, and level 6 wind resistance for stable aerial photography and videography.",
+        "features": [
+            "FAA-Compliant with Integrated Remote ID",
+            "4K EIS Camera with 2-Axis Gimbal and Sony Sensor",
+            "Long-range transmission up to 20,000 ft",
+            "Brushless motors with Level 6 Wind Resistance",
+            "GPS intelligent Return-to-Home function",
+            "Follow Me and Waypoint flight modes",
+            "Beginner-friendly operation with stable flight"
+        ],
+        "specifications": {
+            "Model Name": "HS600",
+            "Special Feature": "FAA-Compliant, GPS, Integrated Remote ID, Long Battery Life, Long Distance Control",
+            "Age Range (Description)": "Adult",
+            "Color": "Black",
+            "Video Capture Resolution": "4K",
+            "Connectivity Technology": "Wi-Fi",
+            "Included Components": "Blade, Drone Battery x 1, Holy Stone HS600 GPS 4K Drone x 1, Portable Bag x 1, Transmitter",
+            "Skill Level": "All",
+            "Item Weight": "197 Grams",
+            "Battery Capacity": "2500 Milliamp Hours",
+            "Video Capture Format": "MP4",
+            "Remote Control Technology": "Wi-Fi",
+            "Control Type": "Remote Control",
+            "Maximum Range": "10,000 Feet",
+            "Material": "Plastic",
+            "Wireless Communication Technology": "Wi-Fi",
+            "Battery Cell Composition": "Lithium Polymer",
+            "Are Batteries Included": "Yes",
+            "Supported Image Format": "JPEG",
+            "Remote Control Included?": "Yes",
+            "Optical Sensor Technology": "CMOS",
+            "Rechargeable Battery Included": "Yes",
+            "Product Dimensions": "14.8 x 10 x 3 inches",
+            "Batteries": "2 Lithium Polymer batteries required (included)",
+            "Manufacturer Part Number": "HS 600"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/42biB2b",
+        "reviewSummary": {
+            "summary": "The Holy Stone HS600 is a solid beginner-friendly GPS drone with a 4K camera and long-range capabilities. Users praise its ease of flight, camera quality, and wind resistance, though battery life and some features get mixed feedback.",
+            "pros": [
+                "FAA-compliant with integrated Remote ID",
+                "Stable 2-axis gimbal 4K EIS camera",
+                "Long-range transmission",
+                "Beginner-friendly and easy to fly",
+                "Brushless motors for stability"
+            ],
+            "cons": [
+                "Battery life can be short on a single charge",
+                "Some features like Follow Me may be inconsistent",
+                "Drone may drift under certain conditions"
+            ],
+            "verdict": "A reliable drone for beginners and hobbyists looking for stable 4K aerial footage, with GPS, long-range control, and FAA compliance."
+        },
+        "userReviews": [
+            {
+                "reviewer": "Shushera",
+                "rating": 4,
+                "title": "Decent drone for its price",
+                "review": "This is quite decent drone and two battery setup is a must. It will fly on a single charge for 10 minutes or so. Good gift for high schoolers or beginners.",
+                "date": "November 18, 2020"
+            },
+            {
+                "reviewer": "Len Werner",
+                "rating": 10.0,
+                "title": "Good value for the money",
+                "review": "Bought this to replace an older DJI and to avoid registration issues. Works well for documenting property development. Solid first drone.",
+                "date": "August 5, 2023"
+            },
+            {
+                "reviewer": "Andrew S.",
+                "rating": 10.0,
+                "title": "Reliable Workhorse for Aerial Filming",
+                "review": "Using the HS360S for over three months, it's a solid investment with brushless motors providing remarkable stability and quiet flight.",
+                "date": "March 15, 2024"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Fitbit Versa 4 Fitness Smartwatch with Daily Readiness, GPS, 24/7 Heart Rate, 40+ Exercise Modes, Sleep Tracking and more, Black/Graphite, One Size (S & L Bands Included)",
+        "brand": "Fitbit",
+        "price": 149.00,
+        "originalPrice": 199.95,
+        "category": "Fitness Smartwatch",
+        "rating": 9.0,
+        "reviews": 16479,
+        "badge": "Amazon's Choice",
+        "image": "/images/smartwatch/242/242A.jpg",
+        "images": [
+            "/images/smartwatch/242/242B.jpg",
+            "/images/smartwatch/242/242C.jpg",
+            "/images/smartwatch/242/242D.jpg",
+            "/images/smartwatch/242/242E.jpg"
+        ],
+        "description": "The Fitbit Versa 4 is a fitness-focused smartwatch with GPS, 24/7 heart rate monitoring, 40+ exercise modes, sleep tracking, Daily Readiness score, stress management, on-wrist calls and notifications, Alexa, Fitbit Pay, and a 6+ day battery life. Includes S & L bands and 6-month Fitbit Premium membership.",
+        "features": [
+            "Daily Readiness Score and built-in GPS with workout intensity map",
+            "24/7 heart rate monitoring and 40+ exercise modes",
+            "Personalized sleep tracking with Sleep Score and Smart Wake Alarm",
+            "Stress Management Score, guided breathing sessions, and mindfulness content",
+            "On-wrist Bluetooth calls, texts, phone notifications, and customizable clock faces",
+            "Amazon Alexa and Fitbit Pay support",
+            "Water resistant up to 50 meters",
+            "6+ day battery life and quick charging",
+            "Includes S & L bands and 6-month Fitbit Premium membership"
+        ],
+        "specifications": {
+            "Memory Storage Capacity": "4 GB",
+            "Battery Capacity": "50 Amp Hours",
+            "Connectivity Technology": "Ethernet",
+            "Wireless Communication Standard": "Bluetooth",
+            "Battery Cell Composition": "Lithium Ion",
+            "GPS": "Built-in GPS",
+            "Shape": "Square",
+            "Screen Size": "1.58 Inches",
+            "OS": "iOS",
+            "Display Resolution": "348 x 442",
+            "Human Interface Input": "Touchscreen with Stylus Support",
+            "Color": "Black/Graphite",
+            "Whats in the box": "Fitbit Versa 4 Fitness Smartwatch, S & L Bands, Charger, Product information manual, Quick start guide",
+            "Manufacturer": "Fitbit Inc",
+            "Date First Available": "September 23, 2022",
+            "Item Weight": "6.3 Ounces",
+            "Standing screen display size": "1.58 Inches",
+            "Batteries Included?": "Yes",
+            "Batteries Required?": "Yes"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/3W8O7tY",
+        "reviewSummary": {
+            "pros": [
+                "Easy to navigate with user-friendly app",
+                "Accurate tracking for workouts, heart rate, and sleep",
+                "Good battery life with 6+ day usage",
+                "Water-resistant design for daily activities",
+                "Includes Fitbit Premium membership with advanced analytics"
+            ],
+            "cons": [
+                "Connectivity issues reported with iPhone syncing",
+                "Tracking may be inaccurate at times",
+                "Some users find it stops working unexpectedly"
+            ],
+            "verdict": "Fitbit Versa 4 is a versatile smartwatch ideal for fitness enthusiasts and casual users. It offers comprehensive activity and health tracking, long battery life, and smartwatch features like Alexa and Fitbit Pay. Connectivity and tracking inconsistencies are noted but overall provides excellent value."
+        },
+        "userReviews": [
+            {
+                "username": "Michael",
+                "rating": 10.0,
+                "title": "Finally, a watch I'll wear every day",
+                "review": "I am not the kind of person that wanted a wristwatch, let alone a smart watch. I don't need that level of connectivity, and I have the unfortunate tendency to destroy nicer watches because of clumsiness and absent-mindedness. But, I do enjoy working out. I love having data when I want to see it. And, importantly, I work in a profession where I would benefit from having a wrist watch to check the time.",
+                "date": "September 7, 2025"
+            },
+            {
+                "username": "Manuel Macias",
+                "rating": 10.0,
+                "title": "Great watch without having to charge daily",
+                "review": "About 5 days battery life, less if you use it for text, phone calls, alarms, and notifications. I keep time face off. Time on by touch button only. With sleep mode on. I recommend device. It's reliable and easy to read. Waterproof (shower only) yet I not tried it in a pool nor river. It not a super fast charger but it lasts a long time with charge. The watch face did get a scratch after a week. I do use it for work and every day use. I take it off only to charge it. The Fitbit app is very nice. I don't use all the features it has. It comes with a six months premium service. Over all I would recommend the watch.",
+                "date": "September 1, 2025"
+            },
+            {
+                "username": "Jason",
+                "rating": 10.0,
+                "title": "Make sure you have the latest version of the fitbit app",
+                "review": "When I first got this, it would not maintain sync. I updated the firmware on the watch, tried doing a factory reset twice, uninstalled/reinstalled the fitbit app twice, ensured that the app wasn't allowed to go to sleep when in the background... nothing worked. It would work for a few minutes, then when I tried to command Alexa, it would say connection lost.",
+                "date": "December 23, 2023"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Smart Watch with Alexa Built-in, 1.83\" HD Touchscreen Fitness Tracker",
+        "brand": "BOOOMIC",
+        "price": 29.99,
+        "originalPrice": 219.99,
+        "category": "Android Smartwatch",
+        "rating": 9.5,
+        "reviews": 590,
+        "badge": "",
+        "image": "/images/smartwatch/211/211A.jpg",
+        "images": [
+            "/images/smartwatch/211/211B.jpg",
+            "/images/smartwatch/211/211C.jpg",
+            "/images/smartwatch/211/211D.jpg",
+            "/images/smartwatch/211/211E.jpg"
+        ],
+        "description": "BOOOMIC Smart Watch is a multifunctional fitness tracker with built-in Amazon Alexa, 1.83\" HD touchscreen, Bluetooth notifications and calls, 120+ sports modes, 24/7 heart rate and sleep monitoring, and IP68 waterproofing for iPhone and Android users.",
+        "features": [
+            "Bluetooth 5.3 calling and messaging notifications",
+            "Alexa built-in for voice control, reminders, and smart home devices",
+            "1.83\" HD touchscreen with DIY watch faces",
+            "24/7 health monitoring: heart rate, stress, and sleep quality",
+            "120+ sports modes for indoor and outdoor activities",
+            "IP68 waterproof for daily use and sweat resistance",
+            "Multi-functional: music control, camera control, weather updates, alarms, stopwatch",
+            "Auto-wake feature activates display when lifting wrist",
+            "Lightweight and stylish design"
+        ],
+        "specifications": {
+            "Operating System": "Android 6.0+, iOS 9.0+, Proprietary OS",
+            "Memory Storage Capacity": "1 GB",
+            "RAM": "1 GB",
+            "Battery Capacity": "300 mAh",
+            "Connectivity Technology": "Bluetooth",
+            "Wireless Communication Standard": "Bluetooth",
+            "Battery Cell Composition": "Lithium Polymer",
+            "GPS": "Via Smartphone",
+            "Shape": "Rectangular",
+            "Screen Size": "1.83 Inches",
+            "Color": "Black",
+            "Power Source": "Rechargeable Battery",
+            "Item Weight": "1.6 Ounces",
+            "Item Dimensions": "7.2 x 3.35 x 0.75 inches",
+            "Manufacturer": "BOOOMIC",
+            "ASIN": "B0FHJLX5XR",
+            "Item model number": "IDW25",
+            "Included Components": "Smartwatch, Charging Cable, Manual"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/3IH2i6t",
+        "reviewSummary": {
+            "pros": [
+                "Large, sharp 1.83\" HD touchscreen",
+                "Seamless Bluetooth calling and notifications",
+                "Built-in Alexa for voice control and smart home integration",
+                "Comprehensive fitness tracking and 120+ sports modes",
+                "Lightweight, stylish, and IP68 waterproof"
+            ],
+            "cons": [
+                "Message replies not supported directly on watch",
+                "GPS relies on connected smartphone",
+                "Some advanced features require app pairing"
+            ],
+            "verdict": "The BOOOMIC Smart Watch offers excellent functionality for fitness and everyday use with Alexa built-in, a large HD display, and extensive health tracking. Ideal for users looking for affordable yet versatile smartwatch features."
+        },
+        "userReviews": [
+            {
+                "username": "Albert Quintana",
+                "rating": 10.0,
+                "title": "100% Good",
+                "review": "The 1.83-inch HD screen looks amazing, easy to use, connects quickly, and allows calls and notifications. Very happy with this smartwatch.",
+                "date": "August 29, 2025"
+            },
+            {
+                "username": "Leyanis Sánchez",
+                "rating": 10.0,
+                "title": "Excellent, I wouldn’t trade it for any other.",
+                "review": "Screen is bright and clear. Calls and notifications work smoothly. Very satisfied with my purchase.",
+                "date": "August 28, 2025"
+            },
+            {
+                "username": "Hussein Abdullah",
+                "rating": 10.0,
+                "title": "Beautiful",
+                "review": "The screen is clear and bright. Fitness tracker works well, lightweight and stylish. Great value for the price.",
+                "date": "August 31, 2025"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Smart Watches for Women, 1.83\" HD Fitness Tracker (Answer/Make Calls), 120+ Sport Modes with Heart Rate/Sleep Monitor, IP68 Waterproof, Fitness Watch for iOS Android, Pink",
+        "brand": "Trendia",
+        "price": 29.97,
+        "originalPrice": 219.99,
+        "category": "Womens Smart Watch",
+        "rating": 9.5,
+        "reviews": 670,
+        "badge": "Amazon's Choice",
+        "image": "/images/smartwatch/221/221A.jpg",
+        "images": [
+            "/images/smartwatch/221/221B.jpg",
+            "/images/smartwatch/221/221C.jpg",
+            "/images/smartwatch/221/221D.jpg",
+            "/images/smartwatch/221/221E.jpg"
+        ],
+        "description": "Trendia 1.83\" HD Smart Watch for Women with Bluetooth calling, 120+ sports modes, heart rate and sleep monitoring, IP68 waterproof rating, and voice assistant. Compatible with iOS and Android devices, it tracks fitness, health, and daily activity while offering elegant style and convenience.",
+        "features": [
+            "Bluetooth calls & alerts compatible with iOS 9.0+ and Android 5.0+",
+            "24/7 heart rate, sleep, step, calorie, and stress monitoring",
+            "Dedicated womens health tracking including menstrual cycle",
+            "Over 120 sport modes for various activities like yoga, running, cycling, and more",
+            "Voice control to manage music, alarms, stopwatch, and reminders",
+            "IP68 waterproof rating for daily water exposure",
+            "Three interchangeable bands for style flexibility",
+            "Magnetic charging with 350mAh battery capacity"
+        ],
+        "specifications": {
+            "Operating System": "iOS 9.0+, Android 5.0+",
+            "Memory Storage Capacity": "128 MB",
+            "Special Features": "3 Bands, 1.83'' HD Touch Color Screen, Making/Answering Phone Calls, Call Record, Message Notifications, Custom Wallpaper, 24/7 Real Time Heart Rate, Sleep Monitor, 120+ Sports Modes, Stopwatch, Timer, Weather Display, Alarm Clock, Music & Camera Control, Magnetic Charging, IP68 Waterproof",
+            "Battery Capacity": "350 Milliamp Hours",
+            "Connectivity Technology": "Bluetooth",
+            "Wireless Communication Standard": "Bluetooth",
+            "Battery Cell Composition": "Lithium Polymer",
+            "GPS": "GPS via Smartphone",
+            "Shape": "Rectangular",
+            "Screen Size": "1.83 Inches",
+            "Package Dimensions": "10.55 x 3.31 x 0.75 inches",
+            "Item Weight": "5 ounces",
+            "ASIN": "B0FHHJJ6VZ",
+            "Batteries": "1 12V battery included",
+            "Date First Available": "July 14, 2025",
+            "Ram Memory Installed Size": "128 MB"
+        },
+        "inStock": true,
+        "bestseller": true,
+        "alibabaUrl": "https://amzn.to/3KrY4A9",
+        "reviewSummary": {
+            "pros": [
+                "Stylish and elegant design suitable for daily use",
+                "Accurate heart rate and sleep monitoring",
+                "Over 120 sport modes for versatile fitness tracking",
+                "Bluetooth calls and notifications directly on the watch",
+                "Good battery life and IP68 waterproof rating"
+            ],
+            "cons": [
+                "Message reply not supported",
+                "GPS requires connection via smartphone",
+                "Data accuracy may require regular login to app"
+            ],
+            "verdict": "The Trendia 1.83\" Smart Watch for Women is a versatile and stylish fitness tracker with robust health monitoring, numerous sport modes, and convenient Bluetooth calling. Ideal for daily wear, fitness enthusiasts, and health-conscious users, it offers great value at a budget-friendly price."
+        },
+        "userReviews": [
+            {
+                "username": "Gabriela",
+                "rating": 10.0,
+                "title": "I’m absolutely impressed with this smartwatch.",
+                "review": "The 1.85-inch HD display is bright and clear, perfect even under sunlight. Being able to answer and make calls directly from the watch is super convenient.",
+                "date": "August 26, 2025"
+            },
+            {
+                "username": "Tanvir Mollik",
+                "rating": 10.0,
+                "title": "Awesome and Functional Smartwatch!",
+                "review": "Elegant rose gold design, sharp display, connects seamlessly for calls, messages, and notifications. Perfect for everyday use.",
+                "date": "September 3, 2025"
+            },
+            {
+                "username": "Karan B.",
+                "rating": 10.0,
+                "title": "Stylish & Functional Smartwatch – Great for Fitness and Daily Use!",
+                "review": "Bright 1.83” HD screen, tracks over 120 sports modes accurately. Heart rate and sleep monitor work well. Convenient for calls and daily activity tracking.",
+                "date": "August 24, 2025"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Apple Watch Series 10 [GPS 42mm case] Smartwatch with Rose Gold Aluminium Case with Light Blush Sport Band - S/M",
+        "brand": "Apple",
+        "price": 329.00,
+        "originalPrice": 399.00,
+        "category": "Apple Smartwatch",
+        "rating": 9.5,
+        "reviews": 13359,
+        "badge": "Amazon's Choice",
+        "image": "/images/smartwatch/226/226A.jpg",
+        "images": [
+            "/images/smartwatch/226/226B.jpg",
+            "/images/smartwatch/226/226C.jpg",
+            "/images/smartwatch/226/226D.jpg",
+            "/images/smartwatch/226/226E.jpg"
+        ],
+        "description": "Apple Watch Series 10 GPS 42mm with Rose Gold Aluminium Case and Light Blush Sport Band. Fitness tracker, ECG app, heart rate and sleep monitoring, always-on Retina display, water resistant, advanced health and safety features.",
+        "features": [
+            "Bigger display with up to 30% more screen area",
+            "Thinner, lighter, and more comfortable design",
+            "Advanced health insights: ECG, Blood Oxygen, heart rate notifications, menstrual cycle tracking, Vitals app",
+            "Fitness partner with Activity Rings, Workout app, and Apple Fitness+",
+            "Stay connected: texts, calls, music, Siri, and notifications",
+            "Safety features: Fall Detection, Crash Detection, Emergency SOS, Check In notifications",
+            "Durability: Crack resistant, IP6X dust resistant, 50m water resistance",
+            "Fast charging: 80% battery in about 30 minutes",
+            "Carbon neutral design when paired with select bands"
+        ],
+        "specifications": {
+            "Operating System": "watchOS",
+            "Memory Storage Capacity": "64 GB",
+            "Battery Capacity": "327 Milliamp Hours",
+            "Connectivity Technology": "GPS",
+            "Wireless Communication Standard": "802.11n, Bluetooth",
+            "Battery Cell Composition": "Lithium Ion",
+            "GPS": "Built-in GPS",
+            "Shape": "Rectangular",
+            "Screen Size": "42 Millimeters",
+            "Color": "Rose Gold Aluminium with Light Blush Sport Band",
+            "Item Dimensions": "24 x 7.7 x 3 inches",
+            "Item Weight": "4.8 ounces",
+            "Manufacturer": "Apple",
+            "ASIN": "B0DGHYQ1VJ",
+            "Item model number": "MWWH3LW/A",
+            "Batteries Included?": "Yes",
+            "Batteries Required?": "Yes",
+            "Date First Available": "September 9, 2024"
+        },
+        "inStock": true,
+        "bestseller": true,
+        "alibabaUrl": "https://amzn.to/48HvHIe",
+        "reviewSummary": {
+            "pros": [
+                "Advanced health and fitness tracking with ECG and Blood Oxygen",
+                "Comfortable and lightweight design",
+                "Robust safety features including Fall and Crash Detection",
+                "Seamless iPhone connectivity",
+                "Fast charging and durable, water-resistant construction"
+            ],
+            "cons": [
+                "Battery life may require daily charging for heavy users",
+                "Higher price point compared to some competitors"
+            ],
+            "verdict": "Apple Watch Series 10 GPS 42mm is a premium smartwatch combining advanced health monitoring, fitness tracking, and connectivity in a lightweight, stylish package. Ideal for iPhone users seeking a powerful, versatile smartwatch."
+        },
+        "userReviews": [
+            {
+                "username": "J. Olin",
+                "rating": 10.0,
+                "title": "New and Improved in Every Way - Series 10 is the one to get!",
+                "review": "The 10 is more comfortable, lighter, and better balanced. Battery life is phenomenal; I can go two days without charging. Worth the upgrade from previous series.",
+                "date": "August 5, 2025"
+            },
+            {
+                "username": "Ingrid G.",
+                "rating": 10.0,
+                "title": "Motivates you to move more",
+                "review": "Packed with features, tracks sleep, fitness, and motivates me to move more. Perfect 42mm size with small/medium band.",
+                "date": "August 17, 2025"
+            },
+            {
+                "username": "Elodie",
+                "rating": 10.0,
+                "title": "Great purchase, love the watch!",
+                "review": "Exactly the color, size, and model I wanted. Great value, very happy with the purchase.",
+                "date": "August 1, 2025"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Samsung Galaxy Watch 4 40mm Bluetooth Smartwatch with ECG Heart Rate Monitor, Tracker for Health, Fitness, Running, Sleep Tracking, GPS Fall Detection, US Version, SM-R860NZDAXAA, Pink Gold",
+        "brand": "Samsung",
+        "price": 179.99,
+        "originalPrice": 0,
+        "category": "Smartwatch",
+        "rating": 9.5,
+        "reviews": 23443,
+        "badge": "",
+        "image": "/images/smartwatch/230/230A.jpg",
+        "images": [
+            "/images/smartwatch/230/230B.jpg",
+            "/images/smartwatch/230/230C.jpg",
+            "/images/smartwatch/230/230D.jpg",
+            "/images/smartwatch/230/230E.jpg"
+        ],
+        "description": "Samsung Galaxy Watch 4 40mm Bluetooth Smartwatch offers body composition analysis, ECG heart monitoring, sleep tracking, advanced fitness tracking, GPS, and seamless phone connectivity in a stylish Pink Gold design.",
+        "features": [
+            "Body composition analysis including body fat, skeletal muscle, body water, basal metabolic rate, and BMI",
+            "Advanced sleep tracking and SpO2 monitoring",
+            "Accurate ECG monitoring for heart health",
+            "Automatic workout tracking for 6 popular activities",
+            "VO2 Max readings for running and endurance tracking",
+            "Call, text, notification, and music streaming from your wrist",
+            "Compatible with select Google services and apps, including Google Assistant and Bixby",
+            "Bluetooth and GPS connectivity"
+        ],
+        "specifications": {
+            "Operating System": "watchOS 4",
+            "Memory Storage Capacity": "16 GB",
+            "RAM": "1.5 GB",
+            "Battery Capacity": "247 Milliamp Hours",
+            "Connectivity Technology": "Bluetooth, GPS",
+            "Wireless Communication Standard": "Bluetooth",
+            "Battery Cell Composition": "Lithium Ion",
+            "GPS": "Built-in True GPS",
+            "Shape": "Heart, Irregular",
+            "Screen Size": "1.2 Inches",
+            "Item Dimensions": "1.59 x 1.55 x 0.39 inches",
+            "Item Weight": "0.914 ounces",
+            "Color": "Pink Gold",
+            "Manufacturer": "Samsung",
+            "ASIN": "B096BK7W5M",
+            "Item model number": "SM-R860NZDAXAA",
+            "Batteries Included?": "Yes",
+            "Batteries Required?": "Yes",
+            "Date First Available": "August 11, 2021",
+            "Department": "mens",
+            "Whats in the box": "Band, Charger, Watch"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/42QGj3M",
+        "reviewSummary": {
+            "pros": [
+                "Comprehensive health and fitness tracking including ECG and sleep monitoring",
+                "Body composition analysis right on your wrist",
+                "Automatic workout recognition and VO2 Max tracking",
+                "Seamless call, text, and notification integration",
+                "Good battery life even after prolonged use"
+            ],
+            "cons": [
+                "Battery life could be better for heavy users",
+                "Some features require a compatible Galaxy phone",
+                "May not suit users who prefer simpler interfaces"
+            ],
+            "verdict": "Samsung Galaxy Watch 4 40mm is a robust Android-compatible smartwatch with excellent health tracking, fitness features, and phone connectivity. Ideal for users wanting advanced monitoring and workout support directly from their wrist."
+        },
+        "userReviews": [
+            {
+                "username": "JJAmazonShopper",
+                "rating": 10.0,
+                "title": "Solid android-compatible smart watch",
+                "review": "I like seeing part of incoming text messages, the do-not-disturb feature, and the variety of fitness tracking options. Battery life is still pretty good even after several years.",
+                "date": "May 13, 2025"
+            },
+            {
+                "username": "swt",
+                "rating": 10.0,
+                "title": "Great Watch - Not Perfect",
+                "review": "Excellent for heart rate monitoring and health tracking. Some integration issues with phone apps but still a very good device.",
+                "date": "April 9, 2023"
+            },
+            {
+                "username": "Gbird",
+                "rating": 10.0,
+                "title": "Very nice watch!",
+                "review": "Easy to set up, tracks time, exercise, and sleep well. The app is very user-friendly.",
+                "date": "July 13, 2023"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Military Smart Watch for Men (Answer/Make Call), Outdoor Sports Smartwatch",
+        "brand": "Blackview",
+        "price": 59.99,
+        "originalPrice": 79.99,
+        "category": "Mens Smart Watch",
+        "rating": 8.5,
+        "reviews": 2233,
+        "badge": "",
+        "image": "/images/smartwatch/209/209A.jpg",
+        "images": [
+            "/images/smartwatch/209/209B.jpg",
+            "/images/smartwatch/209/209C.jpg",
+            "/images/smartwatch/209/209D.jpg",
+            "/images/smartwatch/209/209E.jpg"
+        ],
+        "description": "The Blackview Military Smart Watch is a rugged, multifunctional smartwatch designed for outdoor sports and daily fitness tracking. Features include flashlight, compass, heart rate and SpO2 monitoring, sleep tracking, AI voice assistant, call/message capabilities, and over 100 sports modes.",
+        "features": [
+            "Military standard quality with rugged aluminum alloy frame",
+            "100+ day standby battery, 30 days daily usage",
+            "LED flashlight and compass for outdoor adventures",
+            "2 watch straps included (silicone + nylon)",
+            "2.01\" HD touchscreen with customizable watch faces",
+            "Answer/make calls, quick text reply, AI voice assistant",
+            "100+ sports modes for fitness tracking",
+            "Health monitoring: heart rate, SpO2, sleep, stress",
+            "Smart notifications, music and camera control, alarm, timer, calculator, menstrual cycle tracker",
+            "IP68 waterproof for daily use"
+        ],
+        "specifications": {
+            "Operating System": "iOS, Android",
+            "Memory Storage Capacity": "1 GB",
+            "RAM": "128 MB",
+            "Battery Capacity": "900 mAh",
+            "Connectivity Technology": "Bluetooth",
+            "Wireless Communication Standard": "Bluetooth",
+            "Battery Cell Composition": "Lithium",
+            "GPS": "Via Smartphone",
+            "Shape": "Square",
+            "Screen Size": "2.01 Inches",
+            "Color": "Black",
+            "Power Source": "Rechargeable Battery",
+            "Water Resistance Level": "IP68",
+            "Item Weight": "4.6 Ounces",
+            "Item Dimensions": "7.17 x 3.39 x 0.71 inches",
+            "Manufacturer": "Blackview",
+            "ASIN": "B0D2XSL28P",
+            "Item model number": "W60",
+            "Included Components": "Smart Watch, Silicone Strap, Nylon Strap, Charging Cable, Product Manual"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/4pJxUJg",
+        "reviewSummary": {
+            "pros": [
+                "Rugged military-grade design",
+                "Ultra-long battery life up to 100 days standby",
+                "Versatile outdoor tools: flashlight, compass",
+                "Multiple sports modes and accurate health tracking",
+                "Customizable watch faces and AI voice assistant"
+            ],
+            "cons": [
+                "Some users report occasional connection issues",
+                "Limited customization options for notifications",
+                "Not suitable for medical diagnostic purposes"
+            ],
+            "verdict": "The Blackview Military Smart Watch is a highly durable, feature-packed smartwatch for outdoor enthusiasts and fitness tracking. Excellent battery life, versatile functions, and rugged design make it a great value, though some connectivity limitations exist."
+        },
+        "userReviews": [
+            {
+                "username": "Chandrasekhar",
+                "rating": 10.0,
+                "title": "Tough, Smart, and Surprisingly Handy!",
+                "review": "This watch is built like a tank but feels light on the wrist. The flashlight and compass are great for outdoor adventures, and the long battery life is impressive. Call and message features work smoothly, and health tracking is accurate. Comes with two straps as a bonus.",
+                "date": "August 22, 2025"
+            },
+            {
+                "username": "Nena",
+                "rating": 10.0,
+                "title": "Good quality watch ⌚",
+                "review": "Battery lasts about 10 days. Screen is scratch-resistant. Flashlight is bright. Tracks sleep and heart rate accurately. Includes calculator function. Highly recommend.",
+                "date": "September 12, 2025"
+            },
+            {
+                "username": "SCRUFFY NUTZ",
+                "rating": 4,
+                "title": "Genuinely Surprised - I Do Recommend",
+                "review": "Pretty much as advertised, but could use more customizations like additional timers or notification tones.",
+                "date": "April 13, 2025"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Minecraft Kids Smart Watch – Touchscreen Interactive Watch with 10 Customizable Clock Faces, Built-in Camera, Video Recorder, Alarm, Calculator, Games & Pedometer – Fits Wrists 5.5\" to 8\"",
+        "brand": "Accutime Watch Corp.",
+        "price": 34.99,
+        "originalPrice": 44.99,
+        "category": "Kids Smartwatch",
+        "rating": 9.0,
+        "reviews": 5797,
+        "badge": "Amazon's Choice",
+        "image": "/images/smartwatch/255/255A.jpg",
+        "images": [
+            "/images/smartwatch/255/255B.jpg",
+            "/images/smartwatch/255/255C.jpg",
+            "/images/smartwatch/255/255D.jpg",
+            "/images/smartwatch/255/255E.jpg"
+        ],
+        "description": "Minecraft Kids Smart Watch is a touchscreen interactive smartwatch designed for children with 10 customizable clock faces, camera, video recorder, mini-games, alarm, calculator, and pedometer. Ideal for young Minecraft fans, it promotes fun, learning, and healthy habits.",
+        "features": [
+            "10 Minecraft-themed customizable clock faces (Creeper, Enderman, TNT, etc.)",
+            "Built-in selfie camera, video recorder, and voice recorder",
+            "Includes alarm, timer, calculator, and pedometer",
+            "Preloaded mini-games and Minecraft-themed wallpapers",
+            "Durable silicone strap with secure buckle, fits wrists 5.5\" to 8\"",
+            "Touchscreen interface for easy use",
+            "Encourages learning, time management, and physical activity"
+        ],
+        "specifications": {
+            "Memory Storage Capacity": "Not specified",
+            "Battery Capacity": "Lithium Ion, included",
+            "Connectivity Technology": "None",
+            "Wireless Communication Standard": "None",
+            "Battery Cell Composition": "Lithium Ion",
+            "GPS": "No GPS",
+            "Shape": "Rectangular",
+            "Screen Size": "Not specified",
+            "Item Dimensions": "8.5 x 1.57 x 0.47 inches",
+            "Item Weight": "1.41 ounces",
+            "Date First Available": "March 9, 2021",
+            "Manufacturer": "Accutime Watch Corp.",
+            "Color": "Minecraft themed"
+        },
+        "inStock": true,
+        "bestseller": true,
+        "alibabaUrl": "https://amzn.to/42cEnm4",
+        "reviewSummary": {
+            "pros": [
+                "Fun and interactive for Minecraft fans",
+                "Built-in camera, video, and mini-games",
+                "Durable design with secure strap",
+                "Encourages learning and physical activity"
+            ],
+            "cons": [
+                "Battery life and reliability issues reported",
+                "No SD card slot for extra memory",
+                "Games are educational rather than fully fun for some kids",
+                "Some units may stop working"
+            ],
+            "verdict": "The Minecraft Kids Smart Watch is a great interactive device for young Minecraft fans, providing fun, educational features, and basic activity tracking. Suitable as a gift but with some durability and battery limitations."
+        },
+        "userReviews": [
+            {
+                "username": "Cynthia Pinel",
+                "rating": 10.0,
+                "title": "Great Gift!",
+                "review": "Stepson loved this watch. Got the first one wet and unfortunately broke; had to buy it again because he liked it so much!",
+                "date": "September 19, 2025"
+            },
+            {
+                "username": "Mommy",
+                "rating": 10.0,
+                "title": "Looks good, functions well. No SD card slot.",
+                "review": "Works well, cute—solid purchase for the price. Note: the watch will not accept an SD card for additional memory.",
+                "date": "August 7, 2025"
+            },
+            {
+                "username": "Irene",
+                "rating": 10.0,
+                "title": "Very very good",
+                "review": "Product quality, my child is very happy with his watch",
+                "date": "August 6, 2025"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Polk Audio Signa S2 Sound Bar for Smart TV with Subwoofer",
+        "brand": "Polk Audio",
+        "price": 249.00,
+        "originalPrice": 269.00,
+        "category": "Sound Bar for TV",
+        "rating": 9.0,
+        "reviews": 24721,
+        "badge": "",
+        "image": "/images/soundbar/104/104A.jpg",
+        "images": [
+            "/images/soundbar/104/104B.jpg",
+            "/images/soundbar/104/104C.jpg",
+            "/images/soundbar/104/104D.jpg",
+            "/images/soundbar/104/104E.jpg"
+        ],
+        "description": "Polk Audio Signa S2 is an ultra-slim sound bar with wireless subwoofer, exclusive VoiceAdjust technology, Dolby Digital Decoding, and multiple connection options including HDMI, optical, and Bluetooth for 4K & HD TVs.",
+        "features": [
+            "Premium ultra-slim soundbar with wireless subwoofer",
+            "VoiceAdjust technology for clear dialogue",
+            "5 full-range drivers delivering rich audio with deep bass",
+            "Multiple connection options: HDMI, ARC, optical, AUX, Bluetooth",
+            "Easy setup with included cables and remote",
+            "Wireless streaming from smartphone, tablet, or compatible device"
+        ],
+        "specifications": {
+            "Model Name": "SIGNA S2",
+            "Color": "Black",
+            "Speaker Maximum Output Power": "25 Watts",
+            "Frequency Response": "20 KHz",
+            "Connectivity Technology": "Wired, Wireless",
+            "Audio Output Mode": "Surround",
+            "Mounting Type": "Bar Mount, TV Sound Bar",
+            "Material": "Plastic",
+            "Speaker Type": "Soundbar, Subwoofer",
+            "Special Feature": "VoiceAdjust",
+            "Recommended Uses For Product": "For Surround Sound Systems, For Smartphones or Tablets, For Televisions",
+            "Compatible Devices": "Smartphone, Tablet, Television",
+            "Subwoofer Diameter": "2 Inches",
+            "Surround Sound Channel Configuration": "5.1",
+            "Included Components": "HDMI cable, Optical cable, Literature, Remote, Power cords, Sound bar, Power supply",
+            "Product Dimensions": "3.31\"D x 35.43\"W x 2.15\"H",
+            "Item Weight": "3.9 Pounds",
+            "Is Waterproof": "FALSE",
+            "Warranty Type": "Limited",
+            "Maximum Range": "7 Meters",
+            "Number of Items": "1",
+            "Control Method": "Remote",
+            "Wireless Communication Technology": "Bluetooth",
+            "Speaker Size": "2 Inches",
+            "Power Source": "AC",
+            "Woofer Diameter": "5.25 Inches",
+            "Tweeter Diameter": "2.54 Centimeters",
+            "Water Resistance Level": "Not Water Resistant",
+            "Audio Driver Type": "Dynamic Driver",
+            "Bluetooth Range": "10 Meters",
+            "Audio Driver Size": "5.25 Inches",
+            "Subwoofer Connectivity Technology": "Wireless",
+            "Specific Uses For Product": "Home Theatre",
+            "Style": "S2 Soundbar + Subwoofer",
+            "Manufacturer": "Polk Audio",
+            "ASIN": "B07H1B3PY9",
+            "Item model number": "AM6214-A"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/3KtcWON",
+        "reviewSummary": {
+            "pros": [
+                "Rich and clear audio with deep bass",
+                "VoiceAdjust technology enhances dialogue clarity",
+                "Easy setup with included cables and remote",
+                "Wireless streaming via Bluetooth",
+                "Sleek ultra-slim design fits most spaces"
+            ],
+            "cons": [
+                "Bluetooth connectivity can be inconsistent",
+                "Remote functionality limited for some users",
+                "Subwoofer occasionally has connection issues",
+                "Soundbar may turn off randomly after extended use"
+            ],
+            "verdict": "The Polk Audio Signa S2 delivers excellent TV and music sound quality with a slim design and wireless subwoofer. Great value for home theaters, though minor connectivity issues can occur."
+        },
+        "userReviews": [
+            {
+                "username": "Hector",
+                "rating": 10.0,
+                "title": "JUST GET IT ALREADY, you'll love it.",
+                "review": "I love it. The clarity and simplicity are impressive. Great quality for the price.",
+                "date": "May 20, 2025"
+            },
+            {
+                "username": "AJLB",
+                "rating": 10.0,
+                "title": "Full and powerful quality and reasonably priced soundbar",
+                "review": "Absolute fullness of sound, seamless HDMI ARC connection, adjustable voice clarity and bass.",
+                "date": "July 22, 2025"
+            },
+            {
+                "username": "Dan Theman",
+                "rating": 4,
+                "title": "Nice With A 2020 LG TV",
+                "review": "Big improvement in volume, clarity, and bass over built-in TV speakers. Easy to use.",
+                "date": "April 10, 2024"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Amazon Fire TV Soundbar (newest model), 2.0 speaker with DTS Virtual:X and Dolby Audio, Bluetooth connectivity",
+        "brand": "Amazon",
+        "price": 99.99,
+        "originalPrice": 119.99,
+        "category": "Cheap Soundbar",
+        "rating": 9.0,
+        "reviews": 5365,
+        "badge": "Amazon's Choice",
+        "image": "/images/soundbar/111/111A.jpg",
+        "images": [
+            "/images/soundbar/111/111B.jpg",
+            "/images/soundbar/111/111C.jpg",
+            "/images/soundbar/111/111D.jpg",
+            "/images/soundbar/111/111E.jpg"
+        ],
+        "description": "The Amazon Fire TV Soundbar is a compact 2.0 speaker system that enhances TV audio with dual speakers for fuller sound, clearer dialogue, and deeper bass. It supports DTS Virtual:X and Dolby Audio for virtual surround sound, Bluetooth streaming, and Fire TV integration for seamless control with one remote.",
+        "features": [
+            "2.0 speaker system with DTS Virtual:X and Dolby Audio",
+            "Compact design fits most TV stands and entertainment consoles",
+            "Bluetooth connectivity for streaming music",
+            "Fire TV ready with one-remote control",
+            "Easy setup via HDMI eARC/ARC",
+            "EQ modes: Movies, Music, Dialogue",
+            "Made with 18% recycled materials for sustainability"
+        ],
+        "specifications": {
+            "Product Dimensions": "24\" x 3.5\" x 2.5\"",
+            "Item Weight": "3.97 lbs",
+            "Speaker Channels": "2.0",
+            "EQ Modes": "Movies, Music, Dialogue",
+            "Surround Sound Supported": "DTS Virtual:X, Dolby Digital",
+            "Ports": "HDMI, Optical, AC, USB-A",
+            "Bluetooth Support": "Yes",
+            "Compatibility": "Smart TVs and TVs with streaming media players",
+            "Included Components": "Fire TV Soundbar, remote, HDMI cable, power cable, 2 AAA batteries, Wall Mounting Kit, Quick Start Guide",
+            "Warranty and Service": "1-year limited warranty, optional extended warranty available",
+            "Power Source": "Corded Electric",
+            "Mounting Type": "Wall Mount",
+            "Color": "Black"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/46lKqY0",
+        "reviewSummary": {
+            "pros": [
+                "Easy and quick setup, works well with Fire TV",
+                "Good sound quality for the price, improves TV dialogue and bass",
+                "Compact design fits most spaces",
+                "Bluetooth streaming allows music playback from phones or tablets"
+            ],
+            "cons": [
+                "Connectivity issues reported by some users",
+                "Functionality can be inconsistent; some units stop working",
+                "Bass and surround sound are limited compared to larger models"
+            ],
+            "verdict": "The Amazon Fire TV Soundbar is a great budget-friendly option for those looking to improve TV sound and dialogue clarity. Compact, easy to set up, and Fire TV integrated, though advanced features may be limited."
+        },
+        "userReviews": [
+            {
+                "username": "FI_BK",
+                "rating": 10.0,
+                "title": "Big Sound in a Small Package – Perfect for Travel or Home!",
+                "review": "I picked up the Amazon Fire TV Soundbar for my travel trailer, and it delivers impressive sound quality—rich, clear, and immersive.",
+                "date": "July 17, 2025"
+            },
+            {
+                "username": "BikeWolf",
+                "rating": 10.0,
+                "title": "Sound bar on a budget",
+                "review": "The sound bar casts the sound out in front of the TV, making it easier to hear and replacing the internal speakers effectively.",
+                "date": "February 17, 2025"
+            },
+            {
+                "username": "Dexter",
+                "rating": 4,
+                "title": "A Solid Entry-Level Option!",
+                "review": "Offers a decent audio upgrade for TVs without breaking the bank. Dolby Audio, along with Fire TV integration, is nice, but expectations should be realistic.",
+                "date": "February 16, 2025"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Mounting Dream Soundbar Mount Bracket MD5420",
+        "brand": "Mounting Dream",
+        "price": 20.99,
+        "originalPrice": 28.99,
+        "category": "Sound Bar Mount",
+        "rating": 9.0,
+        "reviews": 17590,
+        "badge": "#1 Best Seller",
+        "image": "/images/soundbar/128/128A.jpg",
+        "images": [
+            "/images/soundbar/128/128B.jpg",
+            "/images/soundbar/128/128C.jpg",
+            "/images/soundbar/128/128D.jpg",
+            "/images/soundbar/128/128E.jpg"
+        ],
+        "description": "Mounting Dream MD5420 is an adjustable soundbar mount bracket that fits most soundbars up to 15 lbs. It provides flexible mounting options above or below TVs and supports multiple wall mounts and TV VESA sizes up to 600x400mm.",
+        "features": [
+            "Holds soundbars up to 15 lbs (6.8 kg)",
+            "Compatible with fixed, tilt, and full-motion TV wall mounts",
+            "Adjustable detachable extension plates allow 180-degree swivel",
+            "Easy installation above or below TV with teeth locking system",
+            "Includes necessary hardware and instructions",
+            "Versatile mounting for multiple soundbar and TV setups"
+        ],
+        "specifications": {
+            "Model Name": "MD5420",
+            "Mounting Type": "Soundbar TV bracket",
+            "Color": "Black",
+            "Compatible Devices": "Soundbars",
+            "Special Feature": "Adjustable",
+            "Material": "Metal",
+            "Product Dimensions": "22.17 x 0.45 x 1.73 inches",
+            "Item Weight": "2.4 Pounds",
+            "Is Discontinued By Manufacturer": "No",
+            "Manufacturer": "Mounting Dream",
+            "Date First Available": "April 6, 2016",
+            "Unit Count": "1",
+            "Included Components": "Bracket; hardware",
+            "Bestseller Rank": "#1 in Speaker Mounts, #15 in TV Mounts, Stands & Turntables"
+        },
+        "inStock": true,
+        "bestseller": true,
+        "alibabaUrl": "https://amzn.to/3Ktd94x",
+        "reviewSummary": {
+            "pros": [
+                "Works well with Samsung and other brand soundbars",
+                "Sturdy and well-made, looks great under TVs",
+                "Versatile with multiple add-ons for different setups",
+                "Includes all necessary hardware for easy installation",
+                "Good value compared to competitor mounts"
+            ],
+            "cons": [
+                "May not fit certain Samsung models perfectly",
+                "Lightweight design may require careful handling during installation"
+            ],
+            "verdict": "The Mounting Dream MD5420 is a reliable, adjustable soundbar mount bracket suitable for most soundbars under 15 lbs. Its versatility, sturdy design, and included hardware make it excellent value for money, though users should check compatibility with their specific TV model."
+        },
+        "userReviews": [
+            {
+                "username": "G-Man",
+                "rating": 10.0,
+                "title": "Great quality, lots of included hardware options and fair priced!",
+                "review": "I now have 4 of these for 4 mounted TVs. They work GREAT with different brand soundbars and TVs. Highly recommend to friends and family.",
+                "date": "July 15, 2024"
+            },
+            {
+                "username": "BO Hayes",
+                "rating": 10.0,
+                "title": "Simple and effective",
+                "review": "Purchased 4 of these for wall mounting my Samsung TVs and soundbars. Consistent quality and easy installation.",
+                "date": "September 2, 2025"
+            },
+            {
+                "username": "Brett M.",
+                "rating": 4,
+                "title": "Solid and quick set up",
+                "review": "Solid enough, easy to set up with some finesse. Lightweight but sturdy, extra hardware helps with flexibility.",
+                "date": "September 11, 2025"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Govee TV Backlight 3 Lite with Fish-Eye Correction",
+        "brand": "Govee",
+        "price": 74.99,
+        "originalPrice": 89.99,
+        "category": "TV Backlight",
+        "rating": 9.0,
+        "reviews": 6880,
+        "badge": "Amazon's Choice",
+        "image": "/images/soundbar/129/129A.jpg",
+        "images": [
+            "/images/soundbar/129/129B.jpg",
+            "/images/soundbar/129/129C.jpg",
+            "/images/soundbar/129/129D.jpg",
+            "/images/soundbar/129/129E.jpg"
+        ],
+        "description": "Govee TV Backlight 3 Lite provides an immersive TV viewing experience with RGBICW LED strip lights featuring fish-eye correction, black bar elimination, blank screen detection, and full app & voice control for 55-65 inch TVs.",
+        "features": [
+            "Fish-eye correction technology for accurate color matching along edges",
+            "4-in-1 lamp beads including warm white for improved pixel density",
+            "Gravitational hanging design simplifies installation on ultra-thin TVs",
+            "DreamView syncing supports up to 7 sub-devices for 360° immersive lighting",
+            "Smart activation via Govee Home App or Alexa/Google Assistant",
+            "99+ preset light effects, black bar elimination, blank screen detection"
+        ],
+        "specifications": {
+            "Color": "Multicolor",
+            "Indoor/Outdoor Usage": "Indoor",
+            "Special Feature": "APP and Voice Control, Black Bars Elimination, Blank Screen Detection, Fish-eye Correction Function, RGBICW",
+            "Light Source Type": "LED",
+            "Power Source": "Corded Electric",
+            "Light Color": "Multicolor",
+            "Theme": "TV",
+            "Occasion": "Christmas",
+            "Style": "Modern",
+            "Material": "Plastic",
+            "Controller Type": "App Control, Voice Control",
+            "Number of Light Sources": 108,
+            "Voltage": "12 Volts DC",
+            "Wattage": 24,
+            "Included Components": "11.8ft LED strip lights, Adapter, Camera, Control box",
+            "Number of Items": 1,
+            "Control Method": "Voice",
+            "Water Resistance Level": "Not Water Resistant",
+            "UPC": "810088347177",
+            "Manufacturer": "Govee",
+            "Part Number": "H60991D1",
+            "Item model number": "H6099",
+            "Item Weight": "1.61 pounds",
+            "Package Dimensions": "8.11 x 6.5 x 3.11 inches",
+            "Batteries Included?": "No",
+            "Batteries Required?": "No",
+            "Bulb Features": "Dimmable"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/48wk1Io",
+        "reviewSummary": {
+            "pros": [
+                "Easy to install and set up",
+                "Enhances immersive TV and gaming experience",
+                "High quality and good value",
+                "Supports app and voice control",
+                "Effective color mapping and black bar elimination"
+            ],
+            "cons": [
+                "Color accuracy can be inconsistent",
+                "Brightness may be lower than advertised",
+                "Calibration can be tricky for some users"
+            ],
+            "verdict": "The Govee TV Backlight 3 Lite is an excellent choice for anyone looking to enhance their TV viewing with immersive RGBICW lighting. It provides reliable app and voice control, advanced features, and good build quality, though color accuracy and brightness may vary slightly."
+        },
+        "userReviews": [
+            {
+                "username": "JCastellanos",
+                "rating": 10.0,
+                "title": "Impressive Ambiance for Demos and Movie Nights – Some Setup Tweaks Needed",
+                "review": "The lighting adds a whole new level of immersion to the room. Brightness levels can be fine-tuned to match mood or ambient light. Fantastic for demos, gaming, and movies.",
+                "date": "July 16, 2025"
+            },
+            {
+                "username": "Anthony",
+                "rating": 10.0,
+                "title": "Absolutely amazing everything",
+                "review": "The best aesthetic addition to my room. The lights changed everything and made the room pop.",
+                "date": "July 26, 2025"
+            },
+            {
+                "username": "Wes B.",
+                "rating": 10.0,
+                "title": "Great!",
+                "review": "Well-made, easy to set up, and consistently performs as expected. Makes TV watching a new immersive experience.",
+                "date": "July 1, 2025"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Sonos Ray - Compact Soundbar for TV and Music - Black",
+        "brand": "Sonos",
+        "price": 219.00,
+        "originalPrice": 229.00,
+        "category": "Compact Soundbar",
+        "rating": 8.5,
+        "reviews": 1083,
+        "badge": "",
+        "image": "/images/soundbar/113/113A.jpg",
+        "images": [
+            "/images/soundbar/113/113B.jpg",
+            "/images/soundbar/113/113C.jpg",
+            "/images/soundbar/113/113D.jpg",
+            "/images/soundbar/113/113E.jpg"
+        ],
+        "description": "The Sonos Ray is a compact soundbar designed for TVs and music, delivering clear dialogue and a surprisingly wide soundstage. Stream content via WiFi with the Sonos app, Apple AirPlay 2, and Spotify Connect. Setup is simple, requiring only two cables.",
+        "features": [
+            "Compact, standalone soundbar with dynamic audio",
+            "Enhanced voice clarity for dialogue-heavy content",
+            "Zero-stress setup using only two cables and Sonos app",
+            "Stream music and content over WiFi from favorite services",
+            "Supports multi-room audio with other Sonos devices",
+            "Stereo 2.0 channel configuration"
+        ],
+        "specifications": {
+            "Model Name": "Sonos Ray",
+            "Speaker Maximum Output Power": "10 Watts",
+            "Connectivity Technology": "Ethernet, Optical, Wi-Fi",
+            "Audio Output Mode": "Stereo",
+            "Mounting Type": "Shelf Mount",
+            "Material": "Polycarbonate (PC)",
+            "Special Feature": "Dolby Enabled, Multi Room Audio",
+            "Recommended Uses For Product": "For Surround Sound Systems",
+            "Compatible Devices": "Television",
+            "Unit Count": "1",
+            "Surround Sound Channel Configuration": "2.0",
+            "Color": "Black",
+            "Included Components": "Optical Cable, Power Cable, Sonos Ray",
+            "Product Dimensions": "3.74\"D x 22\"W x 2.79\"H",
+            "Item Weight": "4.3 Pounds",
+            "Is Waterproof": "FALSE",
+            "Warranty Type": "Limited",
+            "Control Method": "App, Remote",
+            "Wireless Communication Technology": "Airplay, NFC, Wi-Fi",
+            "Speaker Size": "22 Inches",
+            "Power Source": "Corded Electric",
+            "Tweeter Diameter": "2.76 Inches",
+            "Water Resistance Level": "Not Water Resistant",
+            "Audio Driver Type": "Dynamic Driver",
+            "Number of Power Levels": "1",
+            "UPC": "840136802846",
+            "Style": "Soundbar Only",
+            "Manufacturer": "Sonos",
+            "Item model number": "RAYG1US1BLK",
+            "ASIN": "B0B2KQFTG9"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/4gFiRMG",
+        "reviewSummary": {
+            "pros": [
+                "Clear and dynamic audio with enhanced voice clarity",
+                "Compact and aesthetically pleasing design",
+                "Easy setup with Sonos app and two cables",
+                "Supports multi-room audio with other Sonos devices",
+                "Good streaming options via WiFi, AirPlay 2, and Spotify Connect"
+            ],
+            "cons": [
+                "Some users experience WiFi connectivity issues",
+                "Only supports optical input for TV connection",
+                "Remote control compatibility can be tricky",
+                "No digital volume indicator on the TV when connected"
+            ],
+            "verdict": "The Sonos Ray is an excellent compact soundbar for small to medium rooms, offering clear dialogue, easy setup, and streaming flexibility. While connectivity can be finicky for some, it delivers strong value and Sonos-quality sound in a compact form."
+        },
+        "userReviews": [
+            {
+                "username": "Andrew Mogendorff",
+                "rating": 10.0,
+                "title": "Works perfectly",
+                "review": "Replaced my disappointing Vizio soundbar with the Sonos Ray. Setup was quick, it looks nice, and sounds fantastic. Works with AppleTV remote perfectly.",
+                "date": "September 1, 2025"
+            },
+            {
+                "username": "CJ",
+                "rating": 10.0,
+                "title": "Great addition to the surround sound system!",
+                "review": "Placed in bedroom with my Samsung TV. Clear improvement in surround sound. Easy setup with all cables included. Sonos app is user-friendly.",
+                "date": "September 12, 2025"
+            },
+            {
+                "username": "Storkville",
+                "rating": 4,
+                "title": "Make sure you have a compatible remote before buying",
+                "review": "Nice sound enhancement without overwhelming bass. Only works with optical cable and requires an IR remote. Setup took several attempts but works fine now.",
+                "date": "September 16, 2025"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "ZVOX Dialogue Clarifying Sound Bar With Patented Hearing Technology - AccuVoice TV Soundbar AV157 Titanium - Twelve Levels of Voice Boost - Home Theater Audio Speakers",
+        "brand": "ZVOX",
+        "price": 199.99,
+        "originalPrice": 205.99,
+        "category": "TV & Home Audio",
+        "rating": 8.5,
+        "reviews": 2200,
+        "badge": "",
+        "image": "/images/soundbar/117/117A.jpg",
+        "images": [
+            "/images/soundbar/117/117B.jpg",
+            "/images/soundbar/117/117C.jpg",
+            "/images/soundbar/117/117D.jpg",
+            "/images/soundbar/117/117E.jpg"
+        ],
+        "description": "The ZVOX AV157 Titanium is a soundbar featuring patented AccuVoice technology with twelve levels of voice boost, designed for clearer dialogue and enhanced audio for the hearing impaired. With Dolby Digital decoding, a 24W Class D amplifier, and full-range speakers, it delivers distortion-free, immersive room-filling sound.",
+        "features": [
+            "AccuVoice technology with 12 levels of voice boost",
+            "SuperVoice mode reduces background noise for clearer dialogue",
+            "Three full-range speakers for rich, immersive audio",
+            "24-watt Class D amplifier provides distortion-free sound",
+            "Dolby Digital decoding for theater-quality experience",
+            "Easy setup with included optical and analog cables",
+            "Compact, bar-mountable design"
+        ],
+        "specifications": {
+            "Model Name": "AV157",
+            "Speaker Type": "Soundbar",
+            "Speaker Maximum Output Power": "24 Watts",
+            "Connectivity Technology": "Optical",
+            "Audio Output Mode": "Surround",
+            "Mounting Type": "Bar Mount",
+            "Subwoofer Diameter": "3 Inches",
+            "Speaker Size": "5.25 Inches",
+            "Included Components": "Remote",
+            "Color": "Titanium",
+            "Power Source": "Corded Electric",
+            "Is Waterproof": "False",
+            "Water Resistance Level": "Not Water Resistant",
+            "Subwoofer Connectivity Technology": "Wired",
+            "UPC": "882360015722",
+            "Global Trade Identification Number": "00882360015722",
+            "Manufacturer": "ZVOX Audio",
+            "Package Dimensions": "19.13 x 7.72 x 3.94 inches",
+            "Item Weight": "4.71 pounds",
+            "ASIN": "B088X2XYWR",
+            "Item model number": "4001572"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/4pGdmS9",
+        "reviewSummary": {
+            "pros": [
+                "AccuVoice technology enhances dialogue clarity for the hearing impaired",
+                "Easy setup with included cables",
+                "Compact and unobtrusive design",
+                "Good value for those needing voice amplification",
+                "Dolby Digital decoding delivers immersive audio"
+            ],
+            "cons": [
+                "Some users report remote pairing issues",
+                "Not compatible with TVs lacking audio outputs or HDMI-only TVs without an extractor",
+                "Audio quality may not satisfy audiophiles seeking deep bass"
+            ],
+            "verdict": "The ZVOX AV157 is ideal for users with hearing difficulties or those wanting clearer dialogue from their TV. While limited in power and bass, it excels in voice amplification and easy setup, offering excellent value for its purpose."
+        },
+        "userReviews": [
+            {
+                "username": "Healthy Pro",
+                "rating": 10.0,
+                "title": "It Does What It Claims to Do Exceptionally Well",
+                "review": "Perfect for hearing-impaired users. Speakers are clear and easily adjustable. Setup was easy, and it allows normal TV volume without disturbing others.",
+                "date": "June 26, 2021"
+            },
+            {
+                "username": "N. Kilts",
+                "rating": 10.0,
+                "title": "Simple installation, great customer service, ease of use, and it works!",
+                "review": "Excellent for blocking background noise and enhancing dialogue. Setup was straightforward and works as advertised.",
+                "date": "February 1, 2021"
+            },
+            {
+                "username": "Jean Shiverdecker",
+                "rating": 10.0,
+                "title": "Amazing",
+                "review": "Makes words clear even for hearing aid users. Easy setup, just mute TV speakers to avoid echo. Excellent for watching TV with clear dialogue.",
+                "date": "May 3, 2025"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Redragon GS560 RGB Desktop Soundbar, 2.0 Channel",
+        "brand": "Redragon",
+        "price": 31.49,
+        "originalPrice": 34.99,
+        "category": "Computer Speakers",
+        "rating": 9.0,
+        "reviews": 4654,
+        "badge": "Amazon's Choice",
+        "image": "/images/soundbar/127/127A.jpg",
+        "images": [
+            "/images/soundbar/127/127B.jpg",
+            "/images/soundbar/127/127C.jpg",
+            "/images/soundbar/127/127D.jpg",
+            "/images/soundbar/127/127E.jpg"
+        ],
+        "description": "The Redragon GS560 is a 2.0 channel RGB desktop soundbar delivering clear sound and rich bass. Features dynamic lighting modes, touch-control volume knob, and broad compatibility via USB and 3.5mm audio cable.",
+        "features": [
+            "Upgraded driver for clear sound and rich bass",
+            "4 backlit modes including dynamic and static LED illumination",
+            "Compact 16-inch size fits under monitors or on desk",
+            "Touch-control backlit volume knob with on/off switch",
+            "Plug & play via USB with 3.5mm cable, compatible with PC, TV, laptop, smartphone",
+            "Dynamic lighting syncs with music for immersive experience"
+        ],
+        "specifications": {
+            "Model Name": "Adiemus",
+            "Speaker Maximum Output Power": "4 Watts",
+            "Frequency Response": "20 KHz",
+            "Connectivity Technology": "USB",
+            "Audio Output Mode": "Stereo",
+            "Mounting Type": "Tabletop Mount",
+            "Material": "Metal, Plastic",
+            "Special Feature": "Rich Sound & RGB",
+            "Recommended Uses For Product": "Home Entertainment, Gaming, Office Use, Personal Use",
+            "Compatible Devices": "Laptop, Personal Computer, Phones, Smartphone, Television",
+            "Unit Count": "1 Count",
+            "Surround Sound Channel Configuration": "2.0",
+            "Color": "Black",
+            "Included Components": "Redragon GS560 RGB Desktop Soundbar, User Manual",
+            "Product Dimensions": "2.7\"D x 15.8\"W x 2.8\"H",
+            "Item Weight": "1.95 Pounds",
+            "Is Waterproof": "FALSE",
+            "Warranty Type": "Limited",
+            "Maximum Range": "10 Meters",
+            "Number of Items": "1",
+            "Control Method": "Touch",
+            "Speaker Size": "16 Inches",
+            "Power Source": "Corded Electric",
+            "Signal-to-Noise Ratio": "65 dB",
+            "Audio Driver Type": "Dynamic Driver",
+            "Subwoofer Connectivity Technology": "Wired",
+            "Includes MP3 player?": "No",
+            "Number Of Circuits": "2",
+            "Number of Power Levels": "2",
+            "Specific Uses For Product": "Home Entertainment, Gaming, Office Use, Personal Use",
+            "Manufacturer": "Redragon",
+            "Shape": "Square",
+            "Item model number": "GS560",
+            "ASIN": "B08X6LYPHK"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/4nIzU2E",
+        "reviewSummary": {
+            "pros": [
+                "Clear sound with decent bass for its size",
+                "Compact RGB design suitable for desktops and gaming setups",
+                "Touch-control volume knob is precise and easy to use",
+                "Plug & play with USB and 3.5mm connections",
+                "Dynamic lighting modes add visual appeal"
+            ],
+            "cons": [
+                "Bass may be insufficient for bass lovers",
+                "Some users report the device stops working after several months",
+                "Soundbar can be sensitive, occasionally turning on by itself",
+                "Limited power output of 4 Watts"
+            ],
+            "verdict": "The Redragon GS560 RGB soundbar is an affordable, compact option for desktop or small gaming setups. It delivers clear audio with dynamic lighting, easy control, and broad compatibility. Best suited for casual use rather than heavy bass requirements."
+        },
+        "userReviews": [
+            {
+                "username": "Elizabeth Doerrfeld",
+                "rating": 10.0,
+                "title": "Amazing sound and easy set up",
+                "review": "Amazing easy to use speakers that are simple to set up. Quality is excellent for the price. Fits comfortably under most monitors. Plug and play, RGB is cute and matches my setup.",
+                "date": "September 8, 2025"
+            },
+            {
+                "username": "Patricia Barnett-Pinott",
+                "rating": 10.0,
+                "title": "Good and cute",
+                "review": "Really loud all the way up. LED is okay, volume control is precise, and fits nicely under a monitor. Works well for setup and daily use.",
+                "date": "August 23, 2025"
+            },
+            {
+                "username": "Amazon Customer",
+                "rating": 4,
+                "title": "Solid soundbar and great colors",
+                "review": "Compact and affordable soundbar for monitor and gaming console. Easy to use, different color options, straightforward volume control. Sound works well, minor sensitivity issue.",
+                "date": "July 2, 2025"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "DEWALT 20V Max Cordless Drill/Driver Kit with 2 Batteries and Charger",
+        "brand": "DEWALT",
+        "price": 116.75,
+        "originalPrice": 166.75,
+        "category": "Battery Drill",
+        "rating": 9.5,
+        "reviews": 50341,
+        "badge": "Amazon's Choice",
+        "image": "/images/Drill/156/156A.jpg",
+        "images": [
+            "/images/Drill/156/156B.jpg",
+            "/images/Drill/156/156C.jpg",
+            "/images/Drill/156/156D.jpg",
+            "/images/Drill/156/156E.jpg"
+        ],
+        "description": "DEWALT DCD771C2 is a compact, lightweight cordless drill/driver kit with 20V power, two-speed transmission, ergonomic handle, and 1/2\" ratcheting chuck for efficient drilling and fastening in tight areas.",
+        "features": [
+            "Compact and lightweight design fits into tight areas",
+            "High performance motor delivers 300 unit watts out (UWO)",
+            "Two-speed transmission (0-450 & 0-1500 RPM) for versatile applications",
+            "1/2\" single sleeve ratcheting chuck for tight bit gripping",
+            "Ergonomic handle for comfort and control",
+            "Includes 2 batteries and charger for uninterrupted work",
+            "Durable metal construction with 650 inch-pounds max torque",
+            "3 Year Limited Warranty for peace of mind"
+        ],
+        "specifications": {
+            "Model Name": "DCD771C2",
+            "Color": "Yellow",
+            "Power Source": "Battery Powered",
+            "Voltage": "20 Volts",
+            "Amperage": "1.3 Amps",
+            "Maximum Rotational Speed": "1500 RPM",
+            "Maximum Chuck Size": "0.5 Inches",
+            "Maximum Torque": "650 Inch Pounds",
+            "Number of Speeds": "2",
+            "Speed": "1500 RPM",
+            "Material": "Metal",
+            "Item Weight": "3.64 Pounds",
+            "Maximum Power": "300 Watts",
+            "Drill Type": "Basic Drill",
+            "Battery Capacity": "1.3 Ah",
+            "Is Electric": "Yes",
+            "UPC": "885911325905",
+            "Drilling Capacity Wood": "30 Millimeters",
+            "Drilling Capacity Metal": "13 Millimeters",
+            "Batteries Included": "Yes",
+            "Battery Cell Type": "Lithium Ion",
+            "Warranty Description": "3 Year Limited Warranty",
+            "Item model number": "DCD771C2"
+        },
+        "inStock": true,
+        "bestseller": true,
+        "alibabaUrl": "https://amzn.to/47Yr6RR",
+        "reviewSummary": {
+            "pros": [
+                "Powerful and versatile for various drilling applications",
+                "Lightweight and compact design for comfort and tight spaces",
+                "Easy to use with ergonomic handle and simple clutch",
+                "Includes 2 batteries and charger for continuous work",
+                "Good value for money with reliable performance"
+            ],
+            "cons": [
+                "Battery life can vary; some users report short charge retention",
+                "No advanced features like brushless motor or LED light"
+            ],
+            "verdict": "The DEWALT 20V Max Cordless Drill/Driver Kit is a high-performing, reliable tool ideal for homeowners and DIY enthusiasts. Compact, lightweight, and versatile with two batteries included, it provides excellent value and long-term usability."
+        },
+        "userReviews": [
+            {
+                "username": "CL",
+                "rating": 10.0,
+                "title": "Excellent all around drill.",
+                "review": "Very comfortable grip, powerful yet lightweight, easy to handle. Multiple speed settings work perfectly. Great all-around drill.",
+                "date": "September 16, 2025"
+            },
+            {
+                "username": "College Dad",
+                "rating": 10.0,
+                "title": "Great Drill, Good Price. Would buy again.",
+                "review": "Came with two batteries and a charger. Holds charge well and is easy to use. Perfect for home tasks.",
+                "date": "August 29, 2025"
+            },
+            {
+                "username": "Kathy",
+                "rating": 10.0,
+                "title": "Good for routine homeowner tasks",
+                "review": "Battery charges quickly, drill is easy to handle and not heavy. Durable and reliable for everyday use.",
+                "date": "September 11, 2025"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "AVID POWER 20V MAX Lithium Ion Cordless Drill Set with Battery and Charger",
+        "brand": "AVID POWER",
+        "price": 39.99,
+        "originalPrice": 43.99,
+        "category": "Cordless Drill",
+        "rating": 9.5,
+        "reviews": 22378,
+        "badge": "",
+        "image": "/images/Drill/157/157A.jpg",
+        "images": [
+            "/images/Drill/157/157B.jpg",
+            "/images/Drill/157/157C.jpg",
+            "/images/Drill/157/157D.jpg",
+            "/images/Drill/157/157E.jpg"
+        ],
+        "description": "AVID POWER 20V MAX Cordless Drill is a compact, lightweight power drill kit featuring 3/8-inch keyless chuck, variable speed, 15+1 position clutch, LED light, and a versatile set of drill and driver bits. Ideal for DIY and home use.",
+        "features": [
+            "Real-time battery level display on 20V 1.5Ah Lithium-ion battery",
+            "15+1 torque settings and variable speed (0-550 RPM) for precise control",
+            "Compact 2.5 lb lightweight design with ergonomic rubberized grip",
+            "Built-in LED light for illuminating dark workspaces",
+            "3/8\" keyless chuck for quick, tool-free bit changes",
+            "Versatile kit includes 10 drill bits, 10 driver bits, magnetic flexible shaft, and extension bar",
+            "Suitable for wood, ceramics, plastics, and metal (up to 20mm wood, 10mm steel)",
+            "Perfect for DIY, furniture assembly, wall mounting, and small home projects"
+        ],
+        "specifications": {
+            "Model Name": "ACD316",
+            "Color": "Red",
+            "Power Source": "Battery Powered",
+            "Voltage": "20 Volts",
+            "Amperage": "15 Amps",
+            "Maximum Rotational Speed": "550 RPM",
+            "Maximum Chuck Size": "0.38 Inches",
+            "Maximum Torque": "280 Inch Pounds",
+            "Number of Speeds": "3",
+            "Speed": "550 RPM",
+            "Material": "Other",
+            "Item Weight": "3.65 Pounds",
+            "Maximum Power": "300 Watts",
+            "Drill Type": "Basic Drill",
+            "Battery Capacity": "1.5 Amp Hours",
+            "Is Electric": "No",
+            "UPC": "693495980041",
+            "Drilling Capacity Wood": "20 Millimeters",
+            "Drilling Capacity Metal": "10 Millimeters",
+            "Batteries Included": "Yes",
+            "Battery Cell Type": "Lithium Ion",
+            "Average Battery Life": "300 Hours",
+            "Item model number": "ACD316"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/47Yr6RR",
+        "reviewSummary": {
+            "pros": [
+                "Compact and lightweight for easy handling",
+                "15+1 torque and variable speed allow precise control",
+                "LED light illuminates work areas",
+                "Comes with a complete kit of drill and driver bits",
+                "Good value for the price for home and DIY projects"
+            ],
+            "cons": [
+                "Battery only compatible with AVID POWER brand",
+                "Not suitable for masonry or concrete walls",
+                "Battery life can vary and sometimes runs out quickly"
+            ],
+            "verdict": "The AVID POWER 20V MAX Cordless Drill Set is an affordable, compact, and versatile drill ideal for beginners and DIY enthusiasts. Great value with a complete kit, though limited to non-professional home use and AVID POWER batteries."
+        },
+        "userReviews": [
+            {
+                "username": "Damodar Adhikari",
+                "rating": 10.0,
+                "title": "The best affordable drill out there.",
+                "review": "Works really well for small jobs around the house, furniture assembly, and home projects. Battery lasts long and comes with useful accessories. Very good product for the price.",
+                "date": "June 30, 2025"
+            },
+            {
+                "username": "Layton",
+                "rating": 10.0,
+                "title": "Great drill",
+                "review": "Durable build, works well, holds charge, and even has a light. Price is unbeatable compared to high-end drills.",
+                "date": "August 12, 2025"
+            },
+            {
+                "username": "Janet Shuler",
+                "rating": 10.0,
+                "title": "Electric Drill",
+                "review": "Durable, functional, compact, and easy to store. Perfect for mini drilling and DIY projects.",
+                "date": "August 9, 2025"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "COMOWARE 20V Cordless Drill, Electric Power Drill Set",
+        "brand": "COMOWARE",
+        "price": 35.99,
+        "originalPrice": 39.99,
+        "category": "Electric Power Drill",
+        "rating": 9.0,
+        "reviews": 6404,
+        "badge": "",
+        "image": "/images/Drill/160/160A.jpg",
+        "images": [
+            "/images/Drill/160/160B.jpg",
+            "/images/Drill/160/160C.jpg",
+            "/images/Drill/160/160D.jpg",
+            "/images/Drill/160/160E.jpg"
+        ],
+        "description": "COMOWARE 20V Cordless Drill with 1 battery and charger, 3/8-inch keyless chuck, 2 variable speeds, 25+1 position clutch, 266 in-lb torque, and 34-piece drill/driver bit set for DIY and home improvement projects.",
+        "features": [
+            "20V Lithium-ion battery with 1500mAh capacity",
+            "Two variable speed settings: 0-350 RPM & 0-1300 RPM",
+            "25+1 torque clutch positions with 266 in-lb maximum torque",
+            "3/8-inch keyless metal chuck for easy bit changes",
+            "LED work light for visibility in dark spaces",
+            "Includes 34-piece drill and driver bit set and storage case",
+            "Fast 1-hour charger included",
+            "Compact and ergonomic design for home and DIY use"
+        ],
+        "specifications": {
+            "Maximum Rotational Speed": "1300 RPM",
+            "Voltage": "20 Volts",
+            "Amperage": "1.5 Amps",
+            "Maximum Torque": "266 Inch Pounds",
+            "Battery Capacity": "1500 Milliamp Hours",
+            "Number of Speeds": "2",
+            "Item Weight": "5.2 Pounds",
+            "Item model number": "TGDrill-20V-One Battery",
+            "Batteries Included": "Yes",
+            "Batteries Required": "Yes",
+            "Battery Cell Type": "Lithium Ion",
+            "Color": "Green",
+            "Included Components": "[1]20V Cordless Drill, [1]Battery, [3]HSS Twist Drill Bits, [3]Brad Point Drill Bits, [3]Masonry Drill Bits, [11]Screwdriver Bits, [2]Double-headed Bits, [1]Flexible Hex Shaft, [1]Fast Charger, [1]Storage Case",
+            "Material": "Other",
+            "Drill Type": "Basic Drill",
+            "Power Source": "Battery Powered",
+            "Special Features": "Variable Speed",
+            "Item Package Quantity": "1",
+            "Maximum Power": "N/A",
+            "Drilling Capacity Wood": "10 Millimeters",
+            "Drilling Capacity Metal": "10 Millimeters"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/3Kl0S25",
+        "reviewSummary": {
+            "pros": [
+                "Affordable and great value for DIY projects",
+                "Includes comprehensive 34-piece bit set and storage case",
+                "LED light improves visibility in dark spaces",
+                "Compact and ergonomic design suitable for beginners",
+                "Fast charger keeps drill ready for use"
+            ],
+            "cons": [
+                "Some units may stop working quickly or have low power",
+                "Battery life and durability can be inconsistent",
+                "Storage is difficult with battery installed",
+                "Not suitable for heavy-duty drilling tasks"
+            ],
+            "verdict": "The COMOWARE 20V Cordless Drill is an excellent budget-friendly drill for home DIY projects and light work. It’s versatile and comes with a large set of bits, though durability and battery reliability may vary."
+        },
+        "userReviews": [
+            {
+                "username": "Tory",
+                "rating": 10.0,
+                "title": "Dollar general budget, harbor freight drill",
+                "review": "Lightweight, good quality for arts and crafts, storage case is organized, battery ready to use immediately.",
+                "date": "September 12, 2025"
+            },
+            {
+                "username": "Queen",
+                "rating": 10.0,
+                "title": "Disappointed – Faulty Product & Misleading Reviews",
+                "review": "Does not work as intended, screws can be removed but not drilled in. Very disappointed.",
+                "date": "March 16, 2025"
+            },
+            {
+                "username": "Maliek Willocks",
+                "rating": 4,
+                "title": "Perfect for home use for light work",
+                "review": "Comes with many bits and features for the price, but storage and battery placement can be tricky.",
+                "date": "May 26, 2025"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "DEWALT 20V MAX XR Impact Driver, Brushless, 1/4\", 3-Speed, Bare Tool Only",
+        "brand": "DEWALT",
+        "price": 113.82,
+        "originalPrice": 169.00,
+        "category": "Impact Drill",
+        "rating": 9.5,
+        "reviews": 12105,
+        "badge": "Amazon's Choice",
+        "image": "/images/Drill/184/184A.jpg",
+        "images": [
+            "/images/Drill/184/184B.jpg",
+            "/images/Drill/184/184C.jpg",
+            "/images/Drill/184/184D.jpg",
+            "/images/Drill/184/184E.jpg"
+        ],
+        "description": "DEWALT 20V MAX XR Impact Driver with brushless motor delivers 1825 in-lbs of torque and 3400 RPM for driving large screws. Features 3-speed settings, variable speed trigger, integrated 3-LED work light, and is compact and lightweight for professional applications.",
+        "features": [
+            "Brushless motor delivers 1825 in-lbs of torque",
+            "3-speed settings for precision and versatility",
+            "Variable speed trigger for controlled fastening",
+            "Integrated 3-LED work light for low-light areas",
+            "Compact and lightweight design for easy handling",
+            "Bare tool only, battery not included",
+            "Durable construction for tough jobsite applications"
+        ],
+        "specifications": {
+            "Power Source": "Battery Powered",
+            "Maximum Rotational Speed": "3400 RPM",
+            "Voltage": "20 Volts",
+            "Maximum Chuck Size": "0.5 Inches",
+            "Color": "Black/Yellow",
+            "Included Components": "Impact Driver Tool Only",
+            "Special Feature": "Variable Speed",
+            "Product Dimensions": "5.1\"L x 3.38\"W x 8.07\"H",
+            "Material": "Metal with possibly some secondary plastic parts",
+            "Maximum Torque": "1825 Inch Pounds",
+            "Number of Speeds": "3",
+            "Speed": "3400 RPM",
+            "Item Weight": "2.2 pounds",
+            "Drill Type": "Impact Driver",
+            "Manufacturer": "DEWALT",
+            "Item Model Number": "DCF845B",
+            "Batteries": "1 12V battery required (not included)",
+            "Batteries Included?": "No",
+            "Batteries Required?": "Yes",
+            "Battery Cell Type": "Lithium Ion",
+            "Warranty Description": "Manufacturer Warranty"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/4nUs5qR",
+        "reviewSummary": {
+            "pros": [
+                "High torque and speed for professional tasks",
+                "Compact, lightweight, and easy to handle",
+                "Integrated LED work lights for low-light areas",
+                "3-speed settings offer versatility",
+                "Brushless motor ensures efficiency and longevity"
+            ],
+            "cons": [
+                "Battery not included (bare tool only)",
+                "Some users report mixed durability over time",
+                "No driver bit included in the package"
+            ],
+            "verdict": "The DEWALT 20V MAX XR Impact Driver is a professional-grade tool ideal for high-torque fastening tasks. Lightweight and efficient, with multiple speed settings and LED lighting. Great for pros and DIYers, though users need to supply a battery separately."
+        },
+        "userReviews": [
+            {
+                "username": "GEO",
+                "rating": 10.0,
+                "title": "Quality, Professional equipment",
+                "review": "Excellent compact impact driver with reliable power. Works well for different materials and professional tasks.",
+                "date": "May 8, 2025"
+            },
+            {
+                "username": "J. D.",
+                "rating": 10.0,
+                "title": "Small but mighty, better than the ATOMIC version by a mile.",
+                "review": "Arrived with belt clip, great LED lights, and ideal for fast and precise screw driving.",
+                "date": "August 3, 2025"
+            },
+            {
+                "username": "Joshua Kirk",
+                "rating": 10.0,
+                "title": "Way faster at sinking screws than any drill out there.",
+                "review": "Excellent torque, works fast, very pleased with this impact driver.",
+                "date": "August 25, 2025"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Robustrue Cordless Impact Wrench, 406Ft-lbs (550N.m) Brushless 1/2 inch, 2800RPM High Torque Impact Gun",
+        "brand": "Robustrue",
+        "price": 69.99,
+        "originalPrice": 99.99,
+        "category": "Cordless Impact Wrench",
+        "rating": 9.0,
+        "reviews": 972,
+        "badge": "",
+        "image": "/images/Drill/173/173A.jpg",
+        "images": [
+            "/images/Drill/173/173sB.jpg",
+            "/images/Drill/173/173sC.jpg",
+            "/images/Drill/173/173sD.jpg",
+            "/images/Drill/173/173sE.jpg"
+        ],
+        "description": "The Robustrue 1/2-inch Cordless Impact Wrench delivers 406 ft-lbs (550N.m) of torque with a brushless motor, powered by two 4.0Ah lithium-ion batteries. Featuring 3 adjustable speeds, reverse auto-stop, and a multifunctional design that works as an impact drill and screwdriver, this compact and lightweight wrench is ideal for car repairs, home projects, and DIY use.",
+        "features": [
+            "550N.m high torque brushless motor for strong performance",
+            "Includes 2x 4.0Ah lithium-ion batteries with 1-hour quick charge",
+            "3 adjustable speed settings (up to 2800 RPM) with forward/reverse control",
+            "Reverse auto-stop function prevents nut or bolt damage",
+            "Multifunctional tool: impact wrench, impact drill, and screwdriver",
+            "Compact and lightweight at just 3.74 lbs with ergonomic handle",
+            "Built-in LED work light for dark or narrow spaces",
+            "Comes with 4 impact sockets, tool case, belt clip, and accessories"
+        ],
+        "specifications": {
+            "Model Name": "RT550B",
+            "Color": "Green+Black",
+            "Material": "Metal",
+            "Item Weight": "3.74 Pounds",
+            "Product Dimensions": "4.72 x 3.14 x 2.75 inches",
+            "Manufacturer": "Robustrue",
+            "Item model number": "RT550B",
+            "Voltage": "21 Volts",
+            "Maximum Torque": "550N.m (406 Ft-lbs)",
+            "Maximum Speed": "2800 RPM",
+            "Power Source": "Battery Powered",
+            "Maximum Power": "550 Watts",
+            "Battery Cell Type": "Lithium Ion",
+            "Battery Capacity": "4000 mAh",
+            "Number of Batteries": "2",
+            "Batteries Included?": "Yes",
+            "Batteries Required?": "Yes",
+            "Special Features": "Adjustable Mode, Adjustable Torque, Auto Shut-Off, Built-In LED Working Light, Compact",
+            "Head Style": "Fixed Square",
+            "Finish Type": "Powder Coated",
+            "Included Components": "1 Impact Wrench, 2x 4.0Ah Batteries, 1 Charger, 4 Impact Sockets (17mm, 19mm, 21mm, 24mm), 4 Rubber Rings, 1 Belt Clip, Tool Case, User Manual",
+            "Item Package Quantity": "1",
+            "Size": "550N.m",
+            "ASIN": "B0CGJ8H8K7"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/4nUrB41",
+        "reviewSummary": {
+            "pros": [
+                "Strong torque with brushless motor",
+                "Comes with 2 long-lasting batteries",
+                "Quick charging reduces downtime",
+                "Lightweight and compact design for easy handling",
+                "Versatile use as wrench, drill, or screwdriver",
+                "Includes sockets, case, and accessories"
+            ],
+            "cons": [
+                "Not as powerful as some premium brands",
+                "Mixed feedback on lug nut removal performance"
+            ],
+            "verdict": "The Robustrue 550N.m Impact Wrench offers impressive torque, versatile 3-in-1 functionality, and excellent value with two batteries and accessories included. A great choice for home mechanics and DIY projects."
+        },
+        "userReviews": [
+            {
+                "username": "Big R",
+                "rating": 10.0,
+                "title": "Great value",
+                "review": "Good deal, smaller size makes it handier to use. Two batteries are better than one, and the sockets that came with it are better quality than expected.",
+                "date": "June 25, 2025"
+            },
+            {
+                "username": "Ric",
+                "rating": 10.0,
+                "title": "Gets the job done!",
+                "review": "Used it to change shocks on my F150 and RZR. Power is solid for DIY use, not Snap-On quality but not cheaply made either.",
+                "date": "July 23, 2025"
+            },
+            {
+                "username": "Daniel P Bullington",
+                "rating": 10.0,
+                "title": "Great value, power, and battery life - perfect for shade tree mechanics.",
+                "review": "Used it for brake replacement on a 2023 4Runner. No issues with torque, battery life was excellent, and the tool feels solid and well balanced.",
+                "date": "September 16, 2025"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Greenworks 24V Cordless Brushless 4PCs Combo, 400 in-lbs Drill/Driver + 1950 in-lbs Impact Driver + 6.5\" Circular Saw + 200LM Flashlight",
+        "brand": "Greenworks",
+        "price": 299.99,
+        "originalPrice": 329.99,
+        "category": "Cordless Brushless Drill",
+        "rating": 9.5,
+        "reviews": 1179,
+        "badge": "",
+        "image": "/images/Drill/185/185A.jpg",
+        "images": [
+            "/images/Drill/185/185B.jpg",
+            "/images/Drill/185/185C.jpg",
+            "/images/Drill/185/185D.jpg",
+            "/images/Drill/185/185E.jpg"
+        ],
+        "description": "Greenworks 24V Ultimate 4-Tool Combo delivers pro-grade power for every job: 1/2\" Drill & 1/4\" Impact Driver, 6.5\" Brushless Circular Saw, and 200-lumen Flashlight, all powered by 2.0Ah & 4.0Ah USB-C lithium-ion batteries for fade-free performance and long runtime.",
+        "features": [
+            "1/2\" Drill Driver: 400 in-lbs torque, 2-speed (0-450 / 0-2000 RPM)",
+            "1/4\" Impact Driver: 1950 in-lbs torque, 3400 RPM",
+            "6.5\" Brushless Circular Saw: 4800 RPM, 24T carbide blade, bevel capacity up to 50°",
+            "200-lumen pivoting flashlight with SOS mode",
+            "2.0Ah & 4.0Ah lithium-ion batteries with 65W USB-C charger",
+            "Compact, ergonomic, and lightweight design for reduced fatigue",
+            "Built-in LED lights on drill and impact driver for dark spaces",
+            "Brushless motor technology for longer tool life and cooler operation"
+        ],
+        "specifications": {
+            "Voltage": "24 Volts",
+            "Item Weight": "43.2 Pounds",
+            "Battery Cell Composition": "Lithium Ion",
+            "Number of Batteries": "2 Lithium Ion batteries required (included)",
+            "Included Components": "Drill/Driver, Impact Driver, Circular Saw, Flashlight, 2 Batteries, Charger",
+            "Unit Count": "1 Count",
+            "UPC": "195526257431",
+            "Manufacturer": "Greenworks",
+            "Part Number": "CK341",
+            "Package Dimensions": "16.9 x 12.9 x 9.8 inches",
+            "Style": "2×2Ah USB-C Batteries (12,000mAh Power Bank)",
+            "Batteries Included?": "Yes",
+            "Batteries Required?": "Yes",
+            "Item Torque": "1950 Inch Pounds",
+            "Amperage": "4 Amps"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/482uGuj",
+        "reviewSummary": {
+            "pros": [
+                "High-powered 4-tool combo ideal for DIY and professional use",
+                "Brushless motor technology ensures long runtime and durability",
+                "Ergonomic and compact design reduces fatigue during extended use",
+                "USB-C batteries support fast charging and portable device charging",
+                "Built-in LED lights on tools for improved visibility"
+            ],
+            "cons": [
+                "Some customers report issues with battery or drill motor performance",
+                "Charger may be slow for some users",
+                "Chuck or screw-hold mechanism can be tricky in certain cases"
+            ],
+            "verdict": "The Greenworks 24V Brushless 4PC Combo is a powerful and versatile kit suitable for homeowners and professionals. It delivers excellent torque and performance, lightweight design, and convenient USB-C battery charging. Minor battery and tool issues have been reported, but overall it offers strong value for the price."
+        },
+        "userReviews": [
+            {
+                "username": "Or",
+                "rating": 10.0,
+                "title": "Nice Set for home use",
+                "review": "As a homeowner who enjoys tackling DIY projects, the build quality caught my attention. Brushless motor technology extends battery life and efficiency.",
+                "date": "July 19, 2023"
+            },
+            {
+                "username": "IBuyStuffOnAmazon",
+                "rating": 10.0,
+                "title": "Smaller than the old one",
+                "review": "Replaced my old set from Costco. Durable and good quality. Compact and convenient for various tasks.",
+                "date": "May 15, 2023"
+            },
+            {
+                "username": "Valeriu",
+                "rating": 4,
+                "title": "Good set",
+                "review": "Works fine, 2.0Ah batteries are adequate. Charger is slow, and set arrived missing belt clips.",
+                "date": "December 15, 2022"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "CCCEI Modular Power Tool Organizer Wall Mount with Charging Station",
+        "brand": "CCCEI",
+        "price": 53.19,
+        "originalPrice": 55.99,
+        "category": "Power Tools",
+        "rating": 9.5,
+        "reviews": 2829,
+        "badge": "Amazon's Choice",
+        "image": "/images/Drill/169/169A.jpg",
+        "images": [
+            "/images/Drill/169/169B.jpg",
+            "/images/Drill/169/169C.jpg",
+            "/images/Drill/169/169D.jpg",
+            "/images/Drill/169/169E.jpg"
+        ],
+        "description": "The CCCEI Modular Power Tool Organizer is a wall-mounted storage rack with 4 drill slots, hooks, a drill bit rack, and a built-in 8-outlet power strip. Heavy-duty metal construction keeps your tools organized and chargers powered in one place.",
+        "features": [
+            "Wall mount organizer with 4 drill slots, 4 hooks, and drill bit rack",
+            "Built-in 8-outlet power strip with surge protection",
+            "Double layer structure saves bench space",
+            "Easy to assemble and mount, supports up to 33 lbs per layer",
+            "Durable heavy-gauge steel construction",
+            "Side toolbox for additional gadget storage"
+        ],
+        "specifications": {
+            "Material": "Metal",
+            "Color": "A_Red",
+            "Special Feature": "Rechargeable",
+            "Product Dimensions": "8.7\"D x 16.5\"W x 12.6\"H",
+            "Shelf Type": "Tiered Shelf",
+            "Number of Shelves": "2",
+            "Room Type": "Garage",
+            "Finish Type": "Metal",
+            "Assembly Required": "Yes",
+            "Mounting Type": "Wall Mount",
+            "Recommended Uses For Product": "Tools",
+            "Included Components": "4 Slots, 4 Hooks, Drill Bit Rack, Power Strip, 6ft Power Cord",
+            "Item Weight": "5 Pounds",
+            "Style": "Box, Heavy",
+            "Shelf Weight Capacity": "33 Pounds",
+            "Is Customizable": "No",
+            "Manufacturer": "CCCEI",
+            "Batteries Required?": "No",
+            "Item Package Quantity": "1"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/3Ili9HX",
+        "reviewSummary": {
+            "pros": [
+                "Heavy-duty and sturdy construction",
+                "Built-in 8-outlet power strip for charging multiple tools",
+                "Keeps tools and accessories well-organized",
+                "Easy to assemble and mount",
+                "Good value for money"
+            ],
+            "cons": [
+                "Wall anchors supplied are somewhat flimsy",
+                "No batteries included for powered tools"
+            ],
+            "verdict": "The CCCEI Modular Power Tool Organizer is an excellent wall-mounted storage solution for home or garage, combining sturdy construction with a convenient built-in charging station for multiple power tools."
+        },
+        "userReviews": [
+            {
+                "username": "Foster Imposter",
+                "rating": 10.0,
+                "title": "Great unit, easy to assemble!",
+                "review": "Well designed and sturdily built unit. It was very easy and simple to assemble. I really like the looks and functionality!",
+                "date": "August 7, 2025"
+            },
+            {
+                "username": "Scott",
+                "rating": 10.0,
+                "title": "Must have for tool room",
+                "review": "This rack has worked perfectly to organize my tools in the garage and get most of them off of a tool bench or the floor. Great build quality and sturdy.",
+                "date": "July 3, 2025"
+            },
+            {
+                "username": "Denise Stracener",
+                "rating": 10.0,
+                "title": "My Wife Hit It Out of the Park",
+                "review": "Looks GREAT and neatly supports multiple tool batteries in the 8-outlet power strip. Very convenient and easy to adjust the setup.",
+                "date": "June 17, 2025"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "TOZO A1 Wireless Earbuds Bluetooth 5.3 Light Weight in Ear IPX5 Waterproof Headphones 2 Mic for AI Calls, Immersive Premium Sound Bass Headset with Charging Case, 32 Presets EQ Customization via App",
+        "brand": "TOZO",
+        "price": 13.99,
+        "originalPrice": 19.99,
+        "category": "Affordable Earbuds",
+        "rating": 9.0,
+        "reviews": 104661,
+        "badge": "Amazon's Choice",
+        "image": "/images/earbud/79/79A.jpg",
+        "images": [
+            "/images/earbud/79/79B.jpg",
+            "/images/earbud/79/79C.jpg",
+            "/images/earbud/79/79D.jpg",
+            "/images/earbud/79/79E.jpg"
+        ],
+        "description": "TOZO A1 wireless earbuds are ultra-lightweight in-ear headphones featuring Bluetooth 5.3, IPX5 waterproofing, and 32 preset EQ customization via the TOZO app. The 6mm dynamic drivers deliver immersive sound with punchy bass, while 2 microphones provide AI-powered calls. Ergonomic design ensures comfort for all-day wear, and the charging case extends battery life up to 32 hours.",
+        "features": [
+            "Ultra-lightweight earbuds (3.7g each) for small ears and comfortable fit",
+            "6mm dynamic drivers for powerful bass and clear treble",
+            "32 preset EQ modes via TOZO app for personalized audio",
+            "Bluetooth 5.3 with stable connection up to 12 meters",
+            "40mAh earbuds battery and 400mAh charging case for up to 32 hours total playtime",
+            "IPX5 waterproof for workouts, sports, and outdoor use",
+            "Touch control and app control for ease of use"
+        ],
+        "specifications": {
+            "Model Name": "TOZO A1",
+            "Color": "Black",
+            "Ear Placement": "In Ear",
+            "Form Factor": "In Ear",
+            "Impedance": "16 Ohm",
+            "Noise Control": "Sound Isolation",
+            "Frequency Response": "20Hz - 20kHz",
+            "Headphones Jack": "Wireless",
+            "Connectivity Technology": "Wireless",
+            "Wireless Communication Technology": "Bluetooth",
+            "Included Components": "Charging Case, Eartip, TOZO A1 Mini Wireless Earbuds, USB-C (A to C) cable, User Manual",
+            "Age Range": "ALL",
+            "Material": "Plastic",
+            "Specific Uses": "Business, Fitness, Entertainment, Gaming, Travel, Sports, Music, Office Meetings",
+            "Charging Time": "2 Hours",
+            "Recommended Uses": "Audio Monitoring, Calling, Cycling, Exercising, Gaming, Motorcycling, Office Meetings, Radio Communication, Running, Skateboarding, Snowboarding, Studio",
+            "Compatible Devices": "iOS/Android phones, tablets, laptops, and other Bluetooth devices",
+            "Control Type": "APP / Smart Touch Control / Volume Control",
+            "Cable Feature": "Without Cable",
+            "Item Weight": "35.1 grams",
+            "Water Resistance Level": "Waterproof",
+            "Unit Count": "1.0 Count",
+            "Style": "Classical Edition",
+            "Control Method": "Touch",
+            "Number of Items": "1",
+            "Controller Type": "APP, Touch",
+            "Battery Life (Earbuds)": "5.5 Hours",
+            "Audio Driver Type": "Dynamic Driver",
+            "Bluetooth Range": "12 Meters",
+            "Bluetooth Version": "5.3",
+            "Carrying Case Battery Average Life": "32 Hours",
+            "Carrying Case Battery Capacity": "400 mAh",
+            "Carrying Case Material": "Plastic",
+            "Earpiece Shape": "Round",
+            "Number of Power Levels": "1",
+            "Special Features": "APP, Ergonomic Design, Microphone Included, Smart Touch Control, Sport Wireless Earbuds",
+            "Manufacturer": "TOZO",
+            "Product Dimensions": "0.88 x 0.85 x 0.85 inches",
+            "Item Weight": "1.24 ounces",
+            "ASIN": "B09FT58QQP",
+            "Item model number": "A1",
+            "Batteries": "1 Lithium Metal battery required (included)"
+        },
+        "inStock": true,
+        "bestseller": true,
+        "alibabaUrl": "https://amzn.to/4nIqmVA",
+        "reviewSummary": {
+            "summary": "Customers appreciate TOZO A1 earbuds for comfort, lightweight design, and good sound quality. Battery life and connectivity receive mixed feedback, with some users reporting long-lasting performance and others experiencing pairing issues. Overall, great value for the price.",
+            "positive": [
+                "Comfortable fit, especially for small ears",
+                "Lightweight and ergonomic design",
+                "Good sound quality with punchy bass",
+                "App customization with 32 EQ presets",
+                "Affordable price for wireless earbuds"
+            ],
+            "negative": [
+                "Battery life can be inconsistent",
+                "Some users report pairing/disconnection issues",
+                "Fit may not be ideal for all ear shapes"
+            ],
+            "verdict": "TOZO A1 earbuds are ideal for budget-conscious users seeking lightweight, comfortable, and customizable wireless earbuds with waterproofing and long playtime."
+        },
+        "userReviews": [
+            {
+                "reviewer": "Kindle Customer",
+                "rating": 10.0,
+                "title": "Good ear buds",
+                "review": "These ear buds have good sound quality. They connected to my phone very easily. The case is small and fits in my pocket. Very good value and comes in many colors.",
+                "date": "September 16, 2025"
+            },
+            {
+                "reviewer": "M. Treestump",
+                "rating": 10.0,
+                "title": "Wireless - Waterproof - Great Sound - Phone App - Mind Blowingly low price point for this quality!",
+                "review": "Excellent performance for price. Battery lasts long, waterproof, and app customization enhances sound experience. Highly recommended for budget buyers.",
+                "date": "September 9, 2025"
+            },
+            {
+                "reviewer": "Chantel",
+                "rating": 4,
+                "title": "Great Sound, Tricky Pairing",
+                "review": "Sound quality is surprisingly good, comfortable fit, and well-made. Some difficulty with pairing and connectivity reported.",
+                "date": "September 10, 2025"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Apple AirPods Pro 2 Wireless Earbuds, Active Noise Cancellation, Hearing Aid Feature, Bluetooth Headphones, Transparency, Personalized Spatial Audio, High-Fidelity Sound, H2 Chip, USB-C Charging",
+        "brand": "Apple",
+        "price": 199.00,
+        "originalPrice": 249.00,
+        "category": "Wireless Earbuds",
+        "rating": 9.5,
+        "reviews": 38159,
+        "badge": "Amazon's Choice",
+        "image": "/images/earbud/71/71A.jpg",
+        "images": [
+            "/images/earbud/71/71B.jpg",
+            "/images/earbud/71/71C.jpg",
+            "/images/earbud/71/71D.jpg",
+            "/images/earbud/71/71E.jpg"
+        ],
+        "description": "Apple AirPods Pro 2 deliver premium audio with Active Noise Cancellation, Personalized Spatial Audio, and the Apple-designed H2 chip. With an all-in-one hearing health experience, improved call quality, customizable fit, and IP54 dust, sweat, and water resistance, these earbuds provide comfort, clarity, and convenience for everyday use.",
+        "features": [
+            "Active Noise Cancellation and Transparency mode with Adaptive Audio",
+            "Personalized Spatial Audio with dynamic head tracking",
+            "H2 chip for high-fidelity sound and low-distortion audio",
+            "Customizable fit with four silicone tip sizes (XS, S, M, L)",
+            "IP54 dust, sweat, and water resistant",
+            "Hearing Test and clinical-grade hearing protection features",
+            "Touch control and Siri interactions for playback and calls"
+        ],
+        "specifications": {
+            "Model Name": "AirPods Pro (2nd Gen, 2023)",
+            "Color": "White",
+            "Ear Placement": "In Ear",
+            "Form Factor": "In Ear",
+            "Impedance": "24 Ohm",
+            "Noise Control": "Active Noise Cancellation",
+            "Connectivity Technology": "Apple H2 Chip, Bluetooth, Wireless",
+            "Wireless Communication Technology": "Apple H2 Chip, Bluetooth, NFC",
+            "Included Components": "Cable, Wireless Charging Case",
+            "Age Range": "Adult",
+            "Material": "Plastic",
+            "Specific Uses For Product": "Gaming, Music, Sport",
+            "Recommended Uses For Product": "Calling, Exercising, Gaming, Recording, Running",
+            "Compatible Devices": "Cellphones, Desktops, Gaming Consoles, Laptops, Tablets",
+            "Control Type": "Call Control, Volume Control, Media Control, App Control, Voice Control, Noise Control, Siri",
+            "Cable Feature": "With USB-C Cable",
+            "Item Weight": "1.6 ounces",
+            "Water Resistance Level": "Water Resistant",
+            "Unit Count": "1",
+            "Style": "Without AppleCare+",
+            "Control Method": "Voice",
+            "Controller Type": "Siri",
+            "Battery Life": "6 Hours",
+            "Earpiece Shape": "Oval",
+            "UPC": "195949704529",
+            "Special Feature": "Lightweight, Microphone Included, Phone Control, Sports & Exercise, Volume Control",
+            "Manufacturer": "Apple",
+            "Product Dimensions": "0.94 x 0.86 x 1.22 inches",
+            "ASIN": "B0D1XD1ZV3",
+            "Item Model Number": "MTJV3LL/A",
+            "Batteries": "3 Lithium Ion batteries required (included)",
+            "Date First Available": "April 23, 2024"
+        },
+        "inStock": true,
+        "bestseller": true,
+        "alibabaUrl": "https://amzn.to/4gL5mv2",
+        "reviewSummary": {
+            "pros": [
+                "Excellent sound quality with deep bass and crisp highs",
+                "Advanced Active Noise Cancellation and Transparency mode",
+                "Personalized Spatial Audio provides immersive experience",
+                "Customizable fit with multiple ear tip sizes",
+                "Seamless integration with Apple ecosystem and Siri",
+                "IP54 water and dust resistance for versatile use"
+            ],
+            "cons": [
+                "Battery life is average at 6 hours per charge",
+                "Touch control may take time to get used to",
+                "Higher price compared to other wireless earbuds"
+            ],
+            "verdict": "Apple AirPods Pro 2 are premium wireless earbuds with outstanding audio quality, advanced noise cancellation, and personalized spatial audio. Ideal for Apple users seeking comfort, immersion, and convenience, though at a higher price point."
+        },
+        "userReviews": [
+            {
+                "username": "Ron Erese",
+                "rating": 10.0,
+                "title": "Best bluetooth personal audio for me",
+                "review": "I purchased these Airpods 2 Pro after many bluetooth listening accessories, and these are my all time favorites. The integration into the Apple Ecosystem is unmatched, and they provide excellent audio and convenience. Pros and cons aside, they are my go-to earbuds for home and travel.",
+                "date": "July 12, 2025"
+            },
+            {
+                "username": "AaronBrownSound",
+                "rating": 10.0,
+                "title": "Best earbuds by far for apple users!",
+                "review": "I'm a pro audio engineer who's tried dozens of headphones and earbuds over the years. The AirPods Pro 2 are the best earbuds I've used yet. Sound quality is top tier, well balanced, and neutral. Perfect for music and movies.",
+                "date": "August 16, 2025"
+            },
+            {
+                "username": "Annitta",
+                "rating": 10.0,
+                "title": "Excellent noise cancellation and audio quality",
+                "review": "The noise cancellation is outstanding. Great for traveling or getting restful sleep. Comfortable fit and excellent clarity for music and calls. Touch control may take a bit to get used to. Worth every penny!",
+                "date": "August 31, 2025"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Apple AirPods Pro (2nd Gen) Wireless Earbuds, Up to 2X More Active Noise Cancelling, Adaptive Transparency, Personalized Spatial Audio MagSafe Charging Case (Lightning)",
+        "brand": "Apple",
+        "price": 229.75,
+        "originalPrice": 249.00,
+        "category": "Premium Earbuds",
+        "rating": 9.5,
+        "reviews": 57510,
+        "badge": "",
+        "image": "/images/earbud/99/99A.jpg",
+        "images": [
+            "/images/earbud/99/99B.jpg",
+            "/images/earbud/99/99C.jpg",
+            "/images/earbud/99/99D.jpg",
+            "/images/earbud/99/99E.jpg"
+        ],
+        "description": "Apple AirPods Pro (2nd Gen) are wireless in-ear earbuds featuring enhanced Active Noise Cancellation, Adaptive Transparency, Personalized Spatial Audio, and a MagSafe Charging Case with Lightning support. Designed for immersive sound, comfort, and seamless integration with Apple devices.",
+        "features": [
+            "Up to 2x more Active Noise Cancellation",
+            "Adaptive Transparency adjusts for environmental sounds",
+            "Personalized Spatial Audio with dynamic head tracking",
+            "Four sizes of silicone tips for customizable fit",
+            "Swipe, press, or hold stem for volume, playback, and noise control",
+            "MagSafe Charging Case with built-in speaker and lanyard loop",
+            "Audio Sharing and seamless device switching",
+            "Up to 6 hours listening per charge, 30 hours total with case"
+        ],
+        "specifications": {
+            "Model Name": "AirPods Pro",
+            "Color": "White",
+            "Ear Placement": "In Ear",
+            "Form Factor": "In Ear",
+            "Noise Control": "Active Noise Cancellation",
+            "Connectivity Technology": "Wireless",
+            "Wireless Communication Technology": "Bluetooth, NFC",
+            "Included Components": "Wireless Charging Case",
+            "Age Range": "Adult",
+            "Material": "Plastic",
+            "Specific Uses For Product": "Music",
+            "Recommended Uses For Product": "Calling, Exercising, Gaming, Recording, Running",
+            "Compatible Devices": "Car Audio Systems, Cellphones, Desktops, Gaming Consoles, Laptops, Tablets",
+            "Control Type": "Call Control, Volume Control, Media Control, App Control, Voice Control, Noise Control, Siri",
+            "Cable Feature": "Without Cable",
+            "Item Weight": "0.01 Kilograms",
+            "Water Resistance Level": "Water Resistant",
+            "Customer Package Type": "Standard Packaging",
+            "Unit Count": "1.0 Count",
+            "Style": "Lightning",
+            "Control Method": "App",
+            "Number of Items": "1",
+            "UPC": "194253397168, 194253397847",
+            "Special Feature": "Lightweight, Microphone Included, Phone Control, Sports & Exercise, Volume Control, Wireless",
+            "Manufacturer": "Apple",
+            "Product Dimensions": "0.85 x 2.39 x 1.78 inches",
+            "ASIN": "B0BDHWDR12",
+            "Item model number": "MQD83AM/A",
+            "Batteries": "1 Lithium Ion battery required (included)",
+            "Date First Available": "September 9, 2022"
+        },
+        "inStock": true,
+        "bestseller": false,
+        "alibabaUrl": "https://amzn.to/3VEtt4S",
+        "reviewSummary": {
+            "pros": [
+                "Excellent sound quality with rich bass and crisp highs",
+                "Superior Active Noise Cancellation and Adaptive Transparency",
+                "Comfortable and secure fit with multiple tip sizes",
+                "Seamless integration with Apple devices",
+                "MagSafe charging case with additional convenience features"
+            ],
+            "cons": [
+                "Higher price point compared to competitors",
+                "Some users report occasional Bluetooth connectivity issues",
+                "Battery performance may vary over time"
+            ],
+            "verdict": "Apple AirPods Pro (2nd Gen) are top-tier wireless earbuds for users seeking best-in-class noise cancellation, immersive sound, and a premium Apple ecosystem experience. Ideal for daily use, commuting, and workouts, though they come at a premium price."
+        },
+        "userReviews": [
+            {
+                "username": "sofi",
+                "rating": 10.0,
+                "title": "A review more with noise cancelling in mind rather than audio quality",
+                "review": "Noise canceling works exceptionally well in noisy environments, erasing most discomfort from machinery and chatter.",
+                "date": "August 15, 2023"
+            },
+            {
+                "username": "Marshal H",
+                "rating": 10.0,
+                "title": "The king of wireless earbuds",
+                "review": "Perfect in every way. Sound, noise canceling, quality, and battery life are excellent. More comfortable than other premium earbuds.",
+                "date": "September 23, 2022"
+            },
+            {
+                "username": "Smytty",
+                "rating": 10.0,
+                "title": "Apple quality",
+                "review": "Great noise cancellation and isolation mode, very effective for cycling and background noise reduction.",
+                "date": "January 6, 2024"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "TAGRY Bluetooth Headphones True Wireless Earbuds 60H Playback LED Power Display Earphones with Wireless Charging Case IPX5 Waterproof in-Ear Ear buds with Mic for TV Smart Phone Laptop Computer Sports",
+        "brand": "TAGRY",
+        "price": 25.98,
+        "originalPrice": 49.99,
+        "category": "Bluetooth Earbuds",
+        "rating": 9.0,
+        "reviews": 76994,
+        "badge": "Amazon's Choice",
+        "image": "/images/earbud/51/51A.jpg",
+        "images": [
+            "/images/earbud/51/51B.jpg",
+            "/images/earbud/51/51C.jpg",
+            "/images/earbud/51/51D.jpg",
+            "/images/earbud/51/51E.jpg"
+        ],
+        "description": "The TAGRY X08 are in-ear true wireless earbuds with LED power display, 60 hours of playback, wireless charging, and IPX5 waterproof rating. Designed for sports, workouts, and everyday use, they feature touch controls, clear calls with CVC noise reduction, and immersive stereo sound with 13mm dynamic drivers.",
+        "features": [
+            "LED power display for earbuds and charging case",
+            "Up to 60 hours total music playback using multiple charges",
+            "Wireless charging case with USB-C support",
+            "IPX5 waterproof rating for sports and outdoor use",
+            "One-step pairing and touch controls for music, volume, and calls",
+            "Ergonomic design with 3 sizes of ear tips for secure fit",
+            "Clear stereo sound with 13mm dynamic drivers and CVC noise reduction"
+        ],
+        "specifications": {
+            "Model Name": "X08",
+            "Age Range": "Adult, Kid",
+            "Color": "White",
+            "Ear Placement": "In Ear",
+            "Form Factor": "In Ear",
+            "Impedance": "32 Ohm",
+            "Connectivity Technology": "Wireless",
+            "Wireless Communication Technology": "Bluetooth 5.0, True Wireless",
+            "Included Components": "Cable, Eartip, User Manual, Wireless Charging Case, Wireless Earbuds",
+            "Item Weight": "0.95 ounces",
+            "Water Resistance Level": "IPX5 Waterproof",
+            "Control Type": "Touch Control",
+            "Frequency Range": "20~20000 Hz",
+            "Battery Life": "60 Hours (with charging case)",
+            "Audio Driver Type": "Dynamic Driver",
+            "Audio Driver Size": "13 Millimeters",
+            "Earpiece Shape": "Bud",
+            "Special Feature": "Microphone Included, Volume Control",
+            "Product Dimensions": "2.4 x 1 x 1.8 inches",
+            "Batteries": "1 Lithium Polymer battery required (included)"
+        },
+        "inStock": true,
+        "bestseller": true,
+        "alibabaUrl": "https://amzn.to/4mClWOW",
+        "reviewSummary": {
+            "pros": [
+                "Good sound quality with strong bass and clear mids",
+                "Comfortable and secure fit for long use",
+                "Touch controls and LED display for ease of use",
+                "Long battery life with multiple charges via case",
+                "Quick and stable Bluetooth connection"
+            ],
+            "cons": [
+                "Some users find touch controls challenging",
+                "Build quality decent but not premium",
+                "Left earbud may fail after extended use in some cases"
+            ],
+            "verdict": "The TAGRY X08 earbuds are a budget-friendly, feature-rich option for sports and casual listening. They offer long battery life, wireless charging, clear calls, and a comfortable ergonomic design, making them ideal for daily use and workouts."
+        },
+        "userReviews": [
+            {
+                "username": "SNAFU",
+                "rating": 10.0,
+                "title": "Good value for money for a pair of office use ear buds",
+                "review": "Well made and very easy to use. Charged quickly, stayed comfortably in ears, paired with Windows laptop easily, and audio was clear. Great value for the price.",
+                "date": "August 6, 2025"
+            },
+            {
+                "username": "Thomas B.",
+                "rating": 10.0,
+                "title": "Great Product at a Phenomenal Price",
+                "review": "Fantastic product at an unbelievable price. Easy to install and connect via Bluetooth. Comes with charging case that protects earbuds. Works perfectly with multiple devices.",
+                "date": "September 10, 2025"
+            },
+            {
+                "username": "Winnie",
+                "rating": 10.0,
+                "title": "Good functionality for the price",
+                "review": "Worked well for a long time. Audio was satisfactory, easy connection, good charging. Touch controls a little challenging but overall great value.",
+                "date": "September 12, 2025"
+            }
+        ]
+    }
+]

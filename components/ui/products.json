@@ -1,0 +1,1162 @@
+{
+    "categories": {
+        "drones": {
+            "name": "Best Drones",
+            "slug": "drones",
+            "description": "Discover the top-rated drones for photography, videography, and recreational flying. From beginner-friendly models to professional-grade aircraft.",
+            "image": "/professional-drone-flying-in-sky-with-camera.jpg",
+            "productCount": "45+ Products Reviewed",
+            "subcategories": [
+                "Drones",
+                "Camera Drone",
+                "Beginner Drone",
+                "Budget Drone",
+                "Affordable Drone",
+                "Holy Stone Drone",
+                "Adult Beginner Drone",
+                "Cheap Drone"
+            ],
+            "products": [
+                {
+                    "id": 1,
+                    "name": "Potensic ATOM SE GPS Drone with 4K EIS Camera, Under 249g, 62 Mins Flight, 4KM FPV Transmission, Brushless Motor, Max Speed 16m/s, Auto Return, Lightweight and Foldable Drone for Adults Beginner",
+                    "brand": "Potensic",
+                    "price": 249.99,
+                    "originalPrice": 299.99,
+                    "category": "Camera Drone",
+                    "rating": 4.4,
+                    "reviews": 6069,
+                    "badge": "Amazon's Choice",
+                    "image": "/images/drone/2/2A.jpg",
+                    "images": [
+                        "/images/drone/2/2B.jpg",
+                        "/images/drone/2/2C.jpg",
+                        "/images/drone/2/2D.jpg",
+                        "/images/drone/2/2E.jpg"
+                    ],
+                    "description": "The Potensic ATOM SE is a lightweight foldable GPS drone weighing under 249g, eliminating the need for FAA & Remote ID registration. It features a 4K EIS camera with Sony CMOS sensor, up to 62 minutes of flight time with two batteries, a 4KM FPV transmission range, and a top speed of 16m/s. Equipped with brushless motors, SurgeFly flexible flight control system, GPS auto return, and multiple flight modes like Follow Me and Waypoint, this drone is designed for both beginners and enthusiasts seeking stable, high-quality aerial footage.",
+                    "features": [
+                        "Lightweight and foldable design under 249g",
+                        "4K EIS camera with Sony CMOS sensor",
+                        "62 minutes flight time with 2 included batteries",
+                        "4KM FPV transmission with PixSync 2.0",
+                        "Beginner-friendly SurgeFly control system with 3 flight modes",
+                        "Max speed 16m/s with Level-5 wind resistance",
+                        "GPS + GLONASS positioning and auto return",
+                        "Supports Follow Me, Waypoint Flight, and Circle Flight",
+                        "Firmware Over-the-Air (FOTA) updates",
+                        "Compatible with iOS 11+ and Android 7.0+"
+                    ],
+                    "specifications": {
+                        "droneType": "GPS Camera Drone",
+                        "ageRange": "Adult",
+                        "skillLevel": "Beginner",
+                        "color": "Gray",
+                        "videoCaptureResolution": "4K @30fps",
+                        "photoResolution": "12 MP (4608 x 2592)",
+                        "fov": "118°",
+                        "connectivity": "Wi-Fi",
+                        "maxFlightTime": "62 minutes (2 batteries)",
+                        "batteryCapacity": "2500mAh",
+                        "takeoffWeight": "<249g",
+                        "foldSize": "3.46 x 5.63 x 2.28 inches",
+                        "unfoldSize": "11.8 x 9.53 x 2.28 inches",
+                        "maxFlightSpeed": "16 m/s",
+                        "satelliteSystem": "GPS + GLONASS",
+                        "videoFormat": "MP4 (H.264)",
+                        "imageFormat": "JPG / RAW (DNG)",
+                        "storageSupport": "Micro SD 4–256GB (U1 or higher, not included)",
+                        "includedComponents": "Drone, Remote Control, 2 Batteries, Data Cable, Adapter Cables (Micro/Type-C/Lightning) ×3, Portable Handbag, Spare Propellers ×1 pair, Screws ×4, Screwdriver",
+                        "material": "Plastic",
+                        "opticalSensor": "CMOS",
+                        "remoteControl": "Yes (Wi-Fi based)",
+                        "manufacturer": "Potensic",
+                        "modelName": "ATOM SE",
+                        "partNumber": "ATOM SE",
+                        "dimensions": "11.81 x 9.64 x 2.28 inches",
+                        "itemWeight": "0.55 lbs (8.8 oz)",
+                        "batteries": "2 Lithium Ion (included)"
+                    },
+                    "inStock": true,
+                    "bestseller": true,
+                    "alibabaUrl": "https://amzn.to/3DronePotensic",
+                    "reviewSummary": {
+                        "title": "Potensic ATOM SE Review: Compact, Powerful, and Beginner-Friendly",
+                        "overview": "The Potensic ATOM SE drone combines portability, powerful flight capabilities, and a high-quality 4K camera in a beginner-friendly package. Weighing less than 249g, it avoids FAA registration, making it a hassle-free option for new pilots. With its brushless motors, GPS navigation, and advanced features like Follow Me and Waypoints, the ATOM SE competes well with higher-priced drones while maintaining user-friendliness and value.",
+                        "pros": [
+                            "Ultra-lightweight design under 249g (no FAA registration required)",
+                            "Impressive 62 minutes flight time with two batteries",
+                            "4K EIS camera with Sony sensor provides smooth video",
+                            "Beginner-friendly with multiple flight modes",
+                            "GPS auto return and advanced safety features",
+                            "Strong performance in moderate wind conditions",
+                            "Affordable alternative to higher-end drones"
+                        ],
+                        "cons": [
+                            "Camera stabilization not as smooth as premium drones",
+                            "Setup instructions could be clearer",
+                            "Propellers may need replacement after crashes",
+                            "Occasional signal interference with iPhones if not in airplane mode"
+                        ],
+                        "personalExperienceOrUserPerspective": "From first-time flyers to casual hobbyists, the ATOM SE impresses with its ease of use and stability. Beginners appreciate the SurgeFly control modes, while more advanced users enjoy Sport Mode’s 16m/s top speed. The dual-battery setup provides extended flight sessions, and the portability makes it easy to carry around. While the camera isn’t on par with premium DJI models, it captures sharp and vibrant footage at an affordable price point.",
+                        "customerFeedbackInsights": [
+                            "Easy to fly even for beginners with little drone experience",
+                            "Video and photo quality exceeds expectations for the price",
+                            "Strong flight stability in moderate wind",
+                            "Battery life matches the advertised 25–30 minutes per pack",
+                            "Some customers reported setup instructions could be improved",
+                            "Durable build withstanding minor crashes"
+                        ],
+                        "verdictOrFinalRecommendation": "The Potensic ATOM SE is an excellent choice for beginners and hobbyists seeking a reliable, feature-rich drone without breaking the bank. Its lightweight build, 4K camera, extended battery life, and user-friendly controls make it one of the best value drones in its class. While professionals may prefer higher-end stabilization, the ATOM SE offers outstanding performance and quality for under $300."
+                    },
+                    "userReviews": [
+                        {
+                            "username": "Jack Gruber",
+                            "rating": 5,
+                            "date": "2025-09-06",
+                            "title": "Great compact drone for the price",
+                            "text": "Bought for my 14-year-old. He was flying instantly with very little past drone experience. Setup documentation is a little lacking. Camera is OK but decent for the price. Handles wind well, charges quickly, and is compact with a nice soft case.",
+                            "verified": true
+                        },
+                        {
+                            "username": "Barbara & Russ Spaulding",
+                            "rating": 5,
+                            "date": "2024-02-03",
+                            "title": "I love this Drone",
+                            "text": "This is my first drone and I’m very impressed. Stable, easy to control, and the remote fits perfectly with my Pixel 7 Pro. Batteries last around 25 minutes each. Great value, fun to fly, and comes with a perfect carrying case.",
+                            "verified": true
+                        },
+                        {
+                            "username": "Jeff Bunger",
+                            "rating": 5,
+                            "date": "2025-07-17",
+                            "title": "Atom SE honest review",
+                            "text": "The Atom SE is a solid competitor to DJI at a fraction of the cost. Flight time is solid, user-friendly, and durable even after a crash. Camera is decent, and overall size and weight make it a great beginner-friendly option.",
+                            "verified": true
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Holy Stone GPS Drone with 4K Camera for Adults, HS175D RC Quadcopter with Auto Return, Follow Me, Brushless Motor, Circle Fly, Waypoint Fly, Altitude Hold, Headless Mode, 46 Mins Long Flight",
+                    "brand": "Holy Stone",
+                    "price": 169.99,
+                    "originalPrice": 200,
+                    "category": "Drones",
+                    "rating": 4.1,
+                    "reviews": 4918,
+                    "badge": "Best Seller",
+                    "image": "/images/drone/3/3A.jpg",
+                    "images": [
+                        "/images/drone/3/3B.jpg",
+                        "/images/drone/3/3C.jpg",
+                        "/images/drone/3/3D.jpg",
+                        "/images/drone/3/3E.jpg"
+                    ],
+                    "description": "The Holy Stone HS175D is a foldable GPS drone equipped with a 4K Ultra HD camera, brushless motors, and intelligent flight modes. With GPS-assisted return, Follow Me, Circle Fly, and Waypoint Fly, it ensures safe and enjoyable flights. Designed for beginners and enthusiasts alike, it offers up to 46 minutes of flight time with two batteries, stable 5GHz FPV transmission, and a lightweight body under 250g that avoids FAA registration.",
+                    "features": [
+                        "4K Ultra Clear Camera with 110° wide-angle and 90° adjustable lens",
+                        "GPS Auto Return prevents flyaways",
+                        "46 minutes total flight time with two batteries",
+                        "Foldable, portable design with carrying case",
+                        "Intelligent flight modes: Follow Me, Waypoint Fly, Circle Fly",
+                        "Beginner-friendly with Altitude Hold, Headless Mode, and One-Key Takeoff",
+                        "5GHz FPV transmission for smooth video streaming"
+                    ],
+                    "specifications": {
+                        "Model Name": "HS175D",
+                        "Age Range": "14+",
+                        "Color": "Black",
+                        "Video Capture Resolution": "4K",
+                        "Effective Still Resolution": "250 MP",
+                        "Connectivity Technology": "Wi-Fi",
+                        "Skill Level": "Beginner",
+                        "Item Weight": "7.6 ounces",
+                        "Battery Capacity": "23 minutes per battery",
+                        "Maximum Range": "500 meters",
+                        "Material": "Plastic",
+                        "Battery Cell Composition": "Lithium Polymer",
+                        "Batteries Included": "Yes (2 included)",
+                        "Supported Image Format": "JPEG",
+                        "Video Output Resolution": "3840 x 2160",
+                        "Optical Sensor Technology": "CMOS",
+                        "Product Dimensions": "10.83 x 8.27 x 2.48 in",
+                        "Control Type": "Remote Control",
+                        "Wireless Communication Technology": "Wi-Fi"
+                    },
+                    "inStock": true,
+                    "bestseller": true,
+                    "alibabaUrl": "https://www.alibaba.com/product-detail/Holy-Stone-HS175D-4K-GPS-Drone_1600567382674.html",
+                    "reviewSummary": {
+                        "pros": [
+                            "Excellent beginner-friendly design with easy controls",
+                            "4K camera produces sharp images and decent videos",
+                            "Great value for the money compared to premium drones",
+                            "Portable foldable design with carrying case",
+                            "Customer service highly praised"
+                        ],
+                        "cons": [
+                            "Battery life may be shorter than advertised",
+                            "Follow-me and stability features sometimes inconsistent",
+                            "Camera has fisheye distortion",
+                            "App and Wi-Fi range limitations reported"
+                        ],
+                        "verdict": "The Holy Stone HS175D is a strong choice for beginners and casual drone enthusiasts. While not perfect, it provides impressive features like 4K video, GPS safety functions, and a lightweight, portable build at a budget-friendly price point."
+                    },
+                    "userReviews": [
+                        {
+                            "username": "Chris",
+                            "rating": 5,
+                            "title": "Hands-down, a very capable drone with literally the best customer service in the game",
+                            "review": "Holy Stone makes incredible drones at a great value. The customer service is outstanding and the HS175D delivers impressive performance for its price. Definitely recommend as a solid mid-tier drone.",
+                            "date": "November 27, 2023"
+                        },
+                        {
+                            "username": "Shushera",
+                            "rating": 4,
+                            "title": "Decent drone for its price",
+                            "review": "Great starter drone with decent flight time using two batteries. Camera has fisheye distortion and Wi-Fi range is limited. App is buggy but overall a good value for learning.",
+                            "date": "November 18, 2020"
+                        },
+                        {
+                            "username": "Len Werner",
+                            "rating": 5,
+                            "title": "Good value for the money",
+                            "review": "Excellent replacement for my old DJI Phantom. Stable enough in light winds, great 4K photos, and reliable GPS return. Setup can be tricky but works well once learned.",
+                            "date": "August 5, 2023"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Drone with 1080P Camera for Beginners and Adults, Foldable Remote Control Quadcopter with Voice Control, Gestures Selfie, Altitude Hold, One Key Start, 3D Flips, 2 Batteries, Toy for Beginners",
+                    "brand": "Hiturbo",
+                    "price": 79.99,
+                    "originalPrice": 86,
+                    "category": "Drones",
+                    "rating": 4.2,
+                    "reviews": 3670,
+                    "badge": "Amazon's Choice",
+                    "image": "/images/drone/4/4A.jpg",
+                    "images": [
+                        "/images/drone/4/4B.jpg",
+                        "/images/drone/4/4C.jpg",
+                        "/images/drone/4/4D.jpg"
+                    ],
+                    "description": "The Hiturbo S20 is a foldable beginner-friendly drone equipped with a 1080P HD camera, gesture selfie mode, and voice control. Designed for kids and adults, it offers features like one-key takeoff, altitude hold, 3D flips, and speed adjustment. With two rechargeable batteries providing up to 24 minutes of flight time, it is a fun, lightweight, and affordable starter drone.",
+                    "features": [
+                        "1080P HD adjustable camera for photos and videos",
+                        "Two rechargeable batteries provide up to 24 minutes flight time",
+                        "Voice control and gesture selfie functions",
+                        "Foldable and portable design",
+                        "Altitude hold, one-key takeoff/landing, headless mode",
+                        "Beginner-friendly with simple setup",
+                        "3D flips and multiple speed modes for added fun"
+                    ],
+                    "specifications": {
+                        "Model Name": "S20",
+                        "Age Range": "8+ (96 months)",
+                        "Color": "Grey & Blue",
+                        "Video Capture Resolution": "1080p",
+                        "Effective Still Resolution": "1080 Pixels",
+                        "Connectivity Technology": "Wi-Fi",
+                        "Skill Level": "Beginner",
+                        "Item Weight": "5.1 ounces (146 g)",
+                        "Maximum Range": "50 meters",
+                        "Material": "Plastic",
+                        "Battery Cell Composition": "Lithium Ion",
+                        "Batteries Included": "Yes (2 included)",
+                        "Supported Image Format": "JPEG",
+                        "Video Output Resolution": "1920 x 1080",
+                        "Optical Sensor Technology": "CMOS",
+                        "Product Dimensions": "5.5 x 3.3 x 2 in",
+                        "Control Type": "Remote Control, Voice Control",
+                        "Wireless Communication Technology": "Wi-Fi"
+                    },
+                    "inStock": true,
+                    "bestseller": false,
+                    "alibabaUrl": "https://www.alibaba.com/product-detail/Hiturbo-S20-1080P-Camera-Drone_1600567382689.html",
+                    "reviewSummary": {
+                        "pros": [
+                            "Easy to use and beginner-friendly setup",
+                            "1080P camera produces good quality photos",
+                            "Affordable price with solid features",
+                            "Two batteries included for extended play",
+                            "Durable and comes with propeller guards"
+                        ],
+                        "cons": [
+                            "Camera connection via app can be inconsistent",
+                            "Battery life shorter than expected for some users",
+                            "Error messages in app not always user-friendly",
+                            "Limited flight range compared to premium drones"
+                        ],
+                        "verdict": "The Hiturbo S20 is a fun and affordable starter drone ideal for beginners and kids. It offers good value with its 1080P camera, easy controls, and extra battery, although the camera connection and battery life can sometimes disappoint."
+                    },
+                    "userReviews": [
+                        {
+                            "username": "Maria",
+                            "rating": 5,
+                            "title": "Amazing, sleek little drone!",
+                            "review": "Perfect first drone for beginners. Easy to set up, durable after crashes, and comes with two batteries and a case. Excited to keep flying it!",
+                            "date": "August 26, 2025"
+                        },
+                        {
+                            "username": "D",
+                            "rating": 5,
+                            "title": "Maneuverability is Utterly Impressive",
+                            "review": "Fantastic drone for both fun and function. Camera quality is solid, but the real star is its smooth, responsive flight controls with three speed levels.",
+                            "date": "August 7, 2025"
+                        },
+                        {
+                            "username": "Scott L",
+                            "rating": 4,
+                            "title": "Great for beginners",
+                            "review": "Good value drone to learn flying. Camera works well when connected, but app connection issues and short battery life can be frustrating.",
+                            "date": "August 29, 2025"
+                        },
+                        {
+                            "username": "Marifel estevez",
+                            "rating": 5,
+                            "title": "This drone is beautiful, of very good quality",
+                            "review": "Excellent beginner drone with good build quality. Comes with guards, 3 speeds, and two batteries. Very easy to fly and worth the price.",
+                            "date": "September 1, 2025"
+                        }
+                    ]
+                },
+                "smartwatches": {
+                    "name": "Best Smart Watches",
+                    "slug": "smartwatches",
+                    "description": "Find the perfect smartwatch for fitness tracking, health monitoring, and staying connected. Compare features across all major brands.",
+                    "image": "/modern-smartwatch-showing-fitness-data-on-wrist.jpg",
+                    "productCount": "60+ Products Reviewed",
+                    "subcategories": [
+                        "Android Smartwatch",
+                        "Mens Smart Watch",
+                        "Womens Smart Watch",
+                        "Fitness Watch",
+                        "Smartwatch",
+                        "Kids Smartwatch",
+                        "Apple Smartwatch"
+                    ],
+                    "products": [
+                        {
+                            "id": 1,
+                            "name": "Military Smart Watch for Men (Answer/Make Call), Outdoor Sports Smartwatch",
+                            "brand": "Blackview",
+                            "price": 59.99,
+                            "originalPrice": 79.99,
+                            "category": "Mens Smart Watch",
+                            "rating": 4.1,
+                            "reviews": 2233,
+                            "badge": "",
+                            "image": "/images/Drill/209/209A.jpg",
+                            "images": [
+                                "/images/Drill/209/209B.jpg",
+                                "/images/Drill/209/209Cjpg",
+                                "/images/Drill/209/209D.jpg",
+                                "/images/Drill/209/209E.jpg"
+                            ],
+                            "description": "The Blackview Military Smart Watch is a rugged, multifunctional smartwatch designed for outdoor sports and daily fitness tracking. Features include flashlight, compass, heart rate and SpO2 monitoring, sleep tracking, AI voice assistant, call/message capabilities, and over 100 sports modes.",
+                            "features": [
+                                "Military standard quality with rugged aluminum alloy frame",
+                                "100+ day standby battery, 30 days daily usage",
+                                "LED flashlight and compass for outdoor adventures",
+                                "2 watch straps included (silicone + nylon)",
+                                "2.01\" HD touchscreen with customizable watch faces",
+                                "Answer/make calls, quick text reply, AI voice assistant",
+                                "100+ sports modes for fitness tracking",
+                                "Health monitoring: heart rate, SpO2, sleep, stress",
+                                "Smart notifications, music and camera control, alarm, timer, calculator, menstrual cycle tracker",
+                                "IP68 waterproof for daily use"
+                            ],
+                            "specifications": {
+                                "Operating System": "iOS, Android",
+                                "Memory Storage Capacity": "1 GB",
+                                "RAM": "128 MB",
+                                "Battery Capacity": "900 mAh",
+                                "Connectivity Technology": "Bluetooth",
+                                "Wireless Communication Standard": "Bluetooth",
+                                "Battery Cell Composition": "Lithium",
+                                "GPS": "Via Smartphone",
+                                "Shape": "Square",
+                                "Screen Size": "2.01 Inches",
+                                "Color": "Black",
+                                "Power Source": "Rechargeable Battery",
+                                "Water Resistance Level": "IP68",
+                                "Item Weight": "4.6 Ounces",
+                                "Item Dimensions": "7.17 x 3.39 x 0.71 inches",
+                                "Manufacturer": "Blackview",
+                                "ASIN": "B0D2XSL28P",
+                                "Item model number": "W60",
+                                "Included Components": "Smart Watch, Silicone Strap, Nylon Strap, Charging Cable, Product Manual"
+                            },
+                            "inStock": true,
+                            "bestseller": false,
+                            "alibabaUrl": "",
+                            "reviewSummary": {
+                                "pros": [
+                                    "Rugged military-grade design",
+                                    "Ultra-long battery life up to 100 days standby",
+                                    "Versatile outdoor tools: flashlight, compass",
+                                    "Multiple sports modes and accurate health tracking",
+                                    "Customizable watch faces and AI voice assistant"
+                                ],
+                                "cons": [
+                                    "Some users report occasional connection issues",
+                                    "Limited customization options for notifications",
+                                    "Not suitable for medical diagnostic purposes"
+                                ],
+                                "verdict": "The Blackview Military Smart Watch is a highly durable, feature-packed smartwatch for outdoor enthusiasts and fitness tracking. Excellent battery life, versatile functions, and rugged design make it a great value, though some connectivity limitations exist."
+                            },
+                            "userReviews": [
+                                {
+                                    "username": "Chandrasekhar",
+                                    "rating": 5,
+                                    "title": "Tough, Smart, and Surprisingly Handy!",
+                                    "review": "This watch is built like a tank but feels light on the wrist. The flashlight and compass are great for outdoor adventures, and the long battery life is impressive. Call and message features work smoothly, and health tracking is accurate. Comes with two straps as a bonus.",
+                                    "date": "August 22, 2025"
+                                },
+                                {
+                                    "username": "Nena",
+                                    "rating": 5,
+                                    "title": "Good quality watch ⌚",
+                                    "review": "Battery lasts about 10 days. Screen is scratch-resistant. Flashlight is bright. Tracks sleep and heart rate accurately. Includes calculator function. Highly recommend.",
+                                    "date": "September 12, 2025"
+                                },
+                                {
+                                    "username": "SCRUFFY NUTZ",
+                                    "rating": 4,
+                                    "title": "Genuinely Surprised - I Do Recommend",
+                                    "review": "Pretty much as advertised, but could use more customizations like additional timers or notification tones.",
+                                    "date": "April 13, 2025"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Fitbit Versa 4 Fitness Smartwatch with Daily Readiness, GPS, 24/7 Heart Rate",
+                            "brand": "Fitbit",
+                            "price": 149.95,
+                            "originalPrice": 199.95,
+                            "category": "Fitness Watch",
+                            "rating": 4.3,
+                            "reviews": 16476,
+                            "badge": "",
+                            "image": "/images/Drill/210/210A.jpg",
+                            "images": [
+                                "/images/Drill/210/210B.jpg",
+                                "/images/Drill/210/210Cjpg",
+                                "/images/Drill/210/210D.jpg",
+                                "/images/Drill/210/210E.jpg"
+                            ],
+                            "description": "The Fitbit Versa 4 is a fitness smartwatch designed to help users track workouts, heart rate, sleep, and overall health. Features include GPS, 40+ exercise modes, Daily Readiness Score, health metrics dashboard, guided programs, phone notifications, and more.",
+                            "features": [
+                                "Daily Readiness Score to optimize workout and recovery",
+                                "Built-in GPS and workout intensity map",
+                                "All-day activity tracking with 24/7 heart rate monitoring",
+                                "Over 40 exercise modes and automatic exercise tracking",
+                                "Personalized sleep tracking and Sleep Profile",
+                                "Stress management tools, SpO2 monitoring, guided breathing sessions",
+                                "On-wrist calls, texts, notifications, and Fitbit Pay",
+                                "Amazon Alexa built-in, Google Wallet & Maps (Android)",
+                                "6+ day battery with fast charging",
+                                "Includes 6-month Premium membership for advanced insights and analytics"
+                            ],
+                            "specifications": {
+                                "Operating System": "Apple iOS 15 or higher, Android OS 9 or higher",
+                                "Memory Storage Capacity": "4 GB",
+                                "Battery Capacity": "100 Amp Hours",
+                                "Connectivity Technology": "Bluetooth",
+                                "Wireless Communication Standard": "Bluetooth",
+                                "Battery Cell Composition": "Lithium Ion",
+                                "GPS": "Built-in GPS",
+                                "Shape": "Square",
+                                "Screen Size": "1.58 Inches",
+                                "Color": "Pink Sand / Copper Rose",
+                                "Power Source": "Rechargeable Battery",
+                                "Item Weight": "6.3 Ounces",
+                                "Item Dimensions": "1.57 x 0.43 x 1.57 inches",
+                                "Manufacturer": "Fitbit Inc",
+                                "ASIN": "B0B4N6B93J",
+                                "Item model number": "6514035",
+                                "Included Components": "Watch, Bands (S & L), Charging Cable"
+                            },
+                            "inStock": true,
+                            "bestseller": false,
+                            "alibabaUrl": "",
+                            "reviewSummary": {
+                                "pros": [
+                                    "Comprehensive fitness tracking and health metrics",
+                                    "Daily Readiness Score helps optimize workouts",
+                                    "Built-in GPS and over 40 exercise modes",
+                                    "6+ day battery and fast charging",
+                                    "On-wrist calls, notifications, and Fitbit Pay support"
+                                ],
+                                "cons": [
+                                    "Mixed battery life feedback for heavy usage",
+                                    "Some users report connectivity issues with iPhones",
+                                    "Step and exercise tracking can be inaccurate at times",
+                                    "Relatively high price for the features offered"
+                                ],
+                                "verdict": "The Fitbit Versa 4 is a robust fitness smartwatch with extensive exercise, sleep, and health tracking features. It is ideal for users seeking data-driven insights, but some connectivity and battery inconsistencies should be noted."
+                            },
+                            "userReviews": [
+                                {
+                                    "username": "Michael",
+                                    "rating": 5,
+                                    "title": "Finally, a watch I'll wear every day",
+                                    "review": "I love having data when I want to see it. The watch is easy to navigate during workouts and helpful for my profession. Battery life is good and it's user-friendly.",
+                                    "date": "September 7, 2025"
+                                },
+                                {
+                                    "username": "Manuel Macias",
+                                    "rating": 5,
+                                    "title": "Great watch without having to charge daily",
+                                    "review": "Battery lasts about 5 days with normal usage. Time display is reliable and waterproof. Easy to read and navigate.",
+                                    "date": "September 1, 2025"
+                                },
+                                {
+                                    "username": "Jason",
+                                    "rating": 5,
+                                    "title": "Make sure you have the latest version of the Fitbit app",
+                                    "review": "Initial sync issues were solved after updating the app. Works well with calls, notifications, and Alexa.",
+                                    "date": "December 23, 2023"
+                                }
+                            ]
+                        },
+                        "soundbars": {
+                            "name": "Best Soundbars",
+                            "slug": "soundbars",
+                            "description": "Upgrade your home theater with our top-rated soundbars. From budget-friendly options to premium Dolby Atmos systems.",
+                            "image": "/sleek-soundbar-under-modern-tv-in-living-room.jpg",
+                            "productCount": "35+ Products Reviewed",
+                            "subcategories": [
+                                "TV Soundbar",
+                                "Cheap Soundbar",
+                                "Samsung Soundbar for TV",
+                                "Sound Bar for TV",
+                                "Compact Soundbar",
+                                "TV & Home Audio",
+                                "Computer Speakers",
+                                "Sound Bar Mount",
+                                "TV Backlight",
+                                "VIZIO Soundbar for TV"
+                            ],
+                            "products": [
+                                {
+                                    "id": 1,
+                                    "name": "Polk Audio Signa S2 Sound Bar for Smart TV with Subwoofer",
+                                    "brand": "Polk Audio",
+                                    "price": 249.00,
+                                    "originalPrice": 269.00,
+                                    "category": "TV Soundbar",
+                                    "rating": 4.4,
+                                    "reviews": 24721,
+                                    "badge": "",
+                                    "image": "/images/soundbar/104/104A.jpg",
+                                    "images": [
+                                        "/images/soundbar/104/104B.jpg",
+                                        "/images/soundbar/104/104C.jpg",
+                                        "/images/soundbar/104/104D.jpg",
+                                        "/images/soundbar/104/104E.jpg"
+                                    ],
+                                    "description": "Polk Audio Signa S2 is an ultra-slim sound bar with wireless subwoofer, exclusive VoiceAdjust technology, Dolby Digital Decoding, and multiple connection options including HDMI, optical, and Bluetooth for 4K & HD TVs.",
+                                    "features": [
+                                        "Premium ultra-slim soundbar with wireless subwoofer",
+                                        "VoiceAdjust technology for clear dialogue",
+                                        "5 full-range drivers delivering rich audio with deep bass",
+                                        "Multiple connection options: HDMI, ARC, optical, AUX, Bluetooth",
+                                        "Easy setup with included cables and remote",
+                                        "Wireless streaming from smartphone, tablet, or compatible device"
+                                    ],
+                                    "specifications": {
+                                        "Model Name": "SIGNA S2",
+                                        "Color": "Black",
+                                        "Speaker Maximum Output Power": "25 Watts",
+                                        "Frequency Response": "20 KHz",
+                                        "Connectivity Technology": "Wired, Wireless",
+                                        "Audio Output Mode": "Surround",
+                                        "Mounting Type": "Bar Mount, TV Sound Bar",
+                                        "Material": "Plastic",
+                                        "Speaker Type": "Soundbar, Subwoofer",
+                                        "Special Feature": "VoiceAdjust",
+                                        "Recommended Uses For Product": "For Surround Sound Systems, For Smartphones or Tablets, For Televisions",
+                                        "Compatible Devices": "Smartphone, Tablet, Television",
+                                        "Subwoofer Diameter": "2 Inches",
+                                        "Surround Sound Channel Configuration": "5.1",
+                                        "Included Components": "HDMI cable, Optical cable, Literature, Remote, Power cords, Sound bar, Power supply",
+                                        "Product Dimensions": "3.31\"D x 35.43\"W x 2.15\"H",
+                                        "Item Weight": "3.9 Pounds",
+                                        "Is Waterproof": "FALSE",
+                                        "Warranty Type": "Limited",
+                                        "Maximum Range": "7 Meters",
+                                        "Number of Items": "1",
+                                        "Control Method": "Remote",
+                                        "Wireless Communication Technology": "Bluetooth",
+                                        "Speaker Size": "2 Inches",
+                                        "Power Source": "AC",
+                                        "Woofer Diameter": "5.25 Inches",
+                                        "Tweeter Diameter": "2.54 Centimeters",
+                                        "Water Resistance Level": "Not Water Resistant",
+                                        "Audio Driver Type": "Dynamic Driver",
+                                        "Bluetooth Range": "10 Meters",
+                                        "Audio Driver Size": "5.25 Inches",
+                                        "Subwoofer Connectivity Technology": "Wireless",
+                                        "Specific Uses For Product": "Home Theatre",
+                                        "Style": "S2 Soundbar + Subwoofer",
+                                        "Manufacturer": "Polk Audio",
+                                        "ASIN": "B07H1B3PY9",
+                                        "Item model number": "AM6214-A"
+                                    },
+                                    "inStock": true,
+                                    "bestseller": false,
+                                    "alibabaUrl": "https://www.alibaba.com/product-detail/Polk-Audio-Signa-S2-Sound-Bar_1600782345678.html",
+                                    "reviewSummary": {
+                                        "pros": [
+                                            "Rich and clear audio with deep bass",
+                                            "VoiceAdjust technology enhances dialogue clarity",
+                                            "Easy setup with included cables and remote",
+                                            "Wireless streaming via Bluetooth",
+                                            "Sleek ultra-slim design fits most spaces"
+                                        ],
+                                        "cons": [
+                                            "Bluetooth connectivity can be inconsistent",
+                                            "Remote functionality limited for some users",
+                                            "Subwoofer occasionally has connection issues",
+                                            "Soundbar may turn off randomly after extended use"
+                                        ],
+                                        "verdict": "The Polk Audio Signa S2 delivers excellent TV and music sound quality with a slim design and wireless subwoofer. Great value for home theaters, though minor connectivity issues can occur."
+                                    },
+                                    "userReviews": [
+                                        {
+                                            "username": "Hector",
+                                            "rating": 5,
+                                            "title": "JUST GET IT ALREADY, you'll love it.",
+                                            "review": "I love it. The clarity and simplicity are impressive. Great quality for the price.",
+                                            "date": "May 20, 2025"
+                                        },
+                                        {
+                                            "username": "AJLB",
+                                            "rating": 5,
+                                            "title": "Full and powerful quality and reasonably priced soundbar",
+                                            "review": "Absolute fullness of sound, seamless HDMI ARC connection, adjustable voice clarity and bass.",
+                                            "date": "July 22, 2025"
+                                        },
+                                        {
+                                            "username": "Dan Theman",
+                                            "rating": 4,
+                                            "title": "Nice With A 2020 LG TV",
+                                            "review": "Big improvement in volume, clarity, and bass over built-in TV speakers. Easy to use.",
+                                            "date": "April 10, 2024"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Bose TV Speaker - Soundbar for TV with Bluetooth and HDMI-ARC Connectivity, Black, Includes Remote Control",
+                                    "brand": "Bose",
+                                    "price": 279.00,
+                                    "originalPrice": 299.00,
+                                    "category": "Sound Bar for TV",
+                                    "rating": 4.3,
+                                    "reviews": 12935,
+                                    "badge": "Amazon's Choice",
+                                    "image": "/images/soundbar/105/105A.jpg",
+                                    "images": [
+                                        "/images/soundbar/105/105B.jpg",
+                                        "/images/soundbar/105/105C.jpg"
+                                    ],
+                                    "description": "The Bose TV Speaker is a compact soundbar designed to enhance TV audio with clear dialogue, wide natural sound, and powerful bass. It includes Bluetooth and HDMI-ARC connectivity, comes with a remote control, and is compatible with additional Bose Bass Modules for a fuller home theater experience.",
+                                    "features": [
+                                        "Compact soundbar with clear dialogue and vocals",
+                                        "2 angled full-range drivers for wide, natural sound",
+                                        "Bluetooth TV Speaker for wireless music streaming",
+                                        "Simple setup via optical cable or HDMI",
+                                        "Remote control with dialogue mode and bass boost",
+                                        "Compatible with Bose Bass Module 500/700 for expanded sound",
+                                        "Compact design fits easily under TV or mounted on wall"
+                                    ],
+                                    "specifications": {
+                                        "Model Name": "TVSOUNDSOUNDAR",
+                                        "Color": "Black",
+                                        "Frequency Response": "4000 MHz",
+                                        "Connectivity Technology": "Bluetooth 4.2, HDMI ARC, Optical in, AUX in, USB (service only)",
+                                        "Audio Output Mode": "Stereo",
+                                        "Mounting Type": "Tabletop Mount",
+                                        "Material": "Wood",
+                                        "Speaker Type": "Soundbar",
+                                        "Special Feature": "Bass Boost",
+                                        "Recommended Uses For Product": "For Televisions",
+                                        "Compatible Devices": "Television",
+                                        "Subwoofer Diameter": "4.02 Inches",
+                                        "Surround Sound Channel Configuration": "2.0",
+                                        "Included Components": "Bose TV Speaker, Remote control with battery pre-installed, Optical cable, Power cord, Quick start guide",
+                                        "Product Dimensions": "4.02\"D x 23.38\"W x 2.21\"H",
+                                        "Item Weight": "0.01 Ounces",
+                                        "Is Waterproof": "FALSE",
+                                        "Warranty Type": "Limited",
+                                        "Maximum Range": "30 Feet",
+                                        "Number of Items": "1",
+                                        "Control Method": "Remote",
+                                        "Wireless Communication Technology": "Bluetooth",
+                                        "Speaker Size": "3.5 Millimeters",
+                                        "Power Source": "Corded Electric",
+                                        "Woofer Diameter": "4.02 Inches",
+                                        "Tweeter Diameter": "1 Inch",
+                                        "Water Resistance Level": "Not Water Resistant",
+                                        "Audio Driver Type": "Dynamic Driver",
+                                        "Bluetooth Range": "30 Feet",
+                                        "Subwoofer Connectivity Technology": "Wired",
+                                        "Specific Uses For Product": "Home Theatre",
+                                        "UPC": "017817808675",
+                                        "Manufacturer": "Bose",
+                                        "ASIN": "B088KRPCQJ",
+                                        "Item model number": "838309-1100",
+                                        "Batteries": "1 Lithium Ion battery required"
+                                    },
+                                    "inStock": true,
+                                    "bestseller": true,
+                                    "alibabaUrl": "https://www.alibaba.com/product-detail/Bose-TV-Speaker-Soundbar-with-Bluetooth_1600782345679.html",
+                                    "reviewSummary": {
+                                        "pros": [
+                                            "Clear dialogue and enhanced speech",
+                                            "Compact size fits easily under TV",
+                                            "Bluetooth connectivity allows wireless streaming",
+                                            "Easy setup with optical or HDMI cable",
+                                            "Remote control provides dialogue and bass adjustment"
+                                        ],
+                                        "cons": [
+                                            "Some report the soundbar stops working unexpectedly",
+                                            "Bluetooth connectivity can be inconsistent",
+                                            "Remote control features are limited for some users"
+                                        ],
+                                        "verdict": "The Bose TV Speaker is ideal for those seeking a compact, high-quality soundbar that clarifies dialogue and delivers wide natural sound. While minor connectivity issues exist, it offers excellent value and easy setup for home TV use."
+                                    },
+                                    "userReviews": [
+                                        {
+                                            "username": "Vijay Varanasi",
+                                            "rating": 5,
+                                            "title": "Bose is Boss!! Bose is THE Best!!",
+                                            "review": "The setup was seamless and plug-and-play. Sound quality is excellent—clear, powerful, and immersive. Bluetooth functionality is great, allowing multiple device connections.",
+                                            "date": "September 13, 2025"
+                                        },
+                                        {
+                                            "username": "fairestskyebooks",
+                                            "rating": 5,
+                                            "title": "Tiny, mighty Bose!",
+                                            "review": "Focus on speech/dialogue without losing bass quality. Compact yet powerful and sleek.",
+                                            "date": "August 6, 2025"
+                                        },
+                                        {
+                                            "username": "Justine Tunney",
+                                            "rating": 5,
+                                            "title": "Nice speaker",
+                                            "review": "Excellent addition to my PC setup. Easy to use, powerful sound for its size, and enhances dialogue clarity.",
+                                            "date": "December 21, 2024"
+                                        }
+                                    ]
+                                },
+                                "drills": {
+                                    "name": "Best Cordless Drills",
+                                    "slug": "cordless-drills",
+                                    "description": "Power through any project with our top-rated cordless drills. From DIY home projects to professional construction work.",
+                                    "image": "/professional-cordless-drill-with-battery-on-workbe.jpg",
+                                    "productCount": "40+ Products Reviewed",
+                                    "subcategories": [
+                                        "Power Tools",
+                                        "Cordless Drill",
+                                        "Cordless Drill with Light",
+                                        "Battery Drill",
+                                        "Impact Drill",
+                                        "Electric Power Drill",
+                                        "Cordless Impact Wrench",
+                                        "Cordless Drill Set",
+                                        "Cordless Brushless Drill",
+                                        "Right Angle Drill"
+                                    ],
+                                    "products": [
+                                        {
+                                            "id": 1,
+                                            "name": "DEWALT 20V Max Cordless Drill/Driver Kit with 2 Batteries and Charger",
+                                            "brand": "DEWALT",
+                                            "price": 116.75,
+                                            "originalPrice": 166.75,
+                                            "category": "Battery Drill",
+                                            "rating": 4.8,
+                                            "reviews": 50341,
+                                            "badge": "Amazon's Choice",
+                                            "image": "/images/Drill/156/156A.jpg",
+                                            "images": [
+                                                "/images/Drill/156/156B.jpg",
+                                                "/images/Drill/156/156Cjpg",
+                                                "/images/Drill/156/156D.jpg",
+                                                "/images/Drill/156/156E.jpg"
+                                            ],
+                                            "description": "DEWALT DCD771C2 is a compact, lightweight cordless drill/driver kit with 20V power, two-speed transmission, ergonomic handle, and 1/2\" ratcheting chuck for efficient drilling and fastening in tight areas.",
+                                            "features": [
+                                                "Compact and lightweight design fits into tight areas",
+                                                "High performance motor delivers 300 unit watts out (UWO)",
+                                                "Two-speed transmission (0-450 & 0-1500 RPM) for versatile applications",
+                                                "1/2\" single sleeve ratcheting chuck for tight bit gripping",
+                                                "Ergonomic handle for comfort and control",
+                                                "Includes 2 batteries and charger for uninterrupted work",
+                                                "Durable metal construction with 650 inch-pounds max torque",
+                                                "3 Year Limited Warranty for peace of mind"
+                                            ],
+                                            "specifications": {
+                                                "Model Name": "DCD771C2",
+                                                "Color": "Yellow",
+                                                "Power Source": "Battery Powered",
+                                                "Voltage": "20 Volts",
+                                                "Amperage": "1.3 Amps",
+                                                "Maximum Rotational Speed": "1500 RPM",
+                                                "Maximum Chuck Size": "0.5 Inches",
+                                                "Maximum Torque": "650 Inch Pounds",
+                                                "Number of Speeds": "2",
+                                                "Speed": "1500 RPM",
+                                                "Material": "Metal",
+                                                "Item Weight": "3.64 Pounds",
+                                                "Maximum Power": "300 Watts",
+                                                "Drill Type": "Basic Drill",
+                                                "Battery Capacity": "1.3 Ah",
+                                                "Is Electric": "Yes",
+                                                "UPC": "885911325905",
+                                                "Drilling Capacity Wood": "30 Millimeters",
+                                                "Drilling Capacity Metal": "13 Millimeters",
+                                                "Batteries Included": "Yes",
+                                                "Battery Cell Type": "Lithium Ion",
+                                                "Warranty Description": "3 Year Limited Warranty",
+                                                "Item model number": "DCD771C2"
+                                            },
+                                            "inStock": true,
+                                            "bestseller": true,
+                                            "alibabaUrl": "",
+                                            "reviewSummary": {
+                                                "pros": [
+                                                    "Powerful and versatile for various drilling applications",
+                                                    "Lightweight and compact design for comfort and tight spaces",
+                                                    "Easy to use with ergonomic handle and simple clutch",
+                                                    "Includes 2 batteries and charger for continuous work",
+                                                    "Good value for money with reliable performance"
+                                                ],
+                                                "cons": [
+                                                    "Battery life can vary; some users report short charge retention",
+                                                    "No advanced features like brushless motor or LED light"
+                                                ],
+                                                "verdict": "The DEWALT 20V Max Cordless Drill/Driver Kit is a high-performing, reliable tool ideal for homeowners and DIY enthusiasts. Compact, lightweight, and versatile with two batteries included, it provides excellent value and long-term usability."
+                                            },
+                                            "userReviews": [
+                                                {
+                                                    "username": "CL",
+                                                    "rating": 5,
+                                                    "title": "Excellent all around drill.",
+                                                    "review": "Very comfortable grip, powerful yet lightweight, easy to handle. Multiple speed settings work perfectly. Great all-around drill.",
+                                                    "date": "September 16, 2025"
+                                                },
+                                                {
+                                                    "username": "College Dad",
+                                                    "rating": 5,
+                                                    "title": "Great Drill, Good Price. Would buy again.",
+                                                    "review": "Came with two batteries and a charger. Holds charge well and is easy to use. Perfect for home tasks.",
+                                                    "date": "August 29, 2025"
+                                                },
+                                                {
+                                                    "username": "Kathy",
+                                                    "rating": 5,
+                                                    "title": "Good for routine homeowner tasks",
+                                                    "review": "Battery charges quickly, drill is easy to handle and not heavy. Durable and reliable for everyday use.",
+                                                    "date": "September 11, 2025"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": 2,
+                                            "name": "AVID POWER 20V MAX Lithium Ion Cordless Drill Set with Battery and Charger",
+                                            "brand": "AVID POWER",
+                                            "price": 39.99,
+                                            "originalPrice": 43.99,
+                                            "category": "Cordless Drill",
+                                            "rating": 4.6,
+                                            "reviews": 22378,
+                                            "badge": "",
+                                            "image": "/images/Drill/157/157A.jpg",
+                                            "images": [
+                                                "/images/Drill/157/157B.jpg",
+                                                "/images/Drill/157/157Cjpg",
+                                                "/images/Drill/157/157D.jpg",
+                                                "/images/Drill/157/157E.jpg"
+                                            ],
+                                            "description": "AVID POWER 20V MAX Cordless Drill is a compact, lightweight power drill kit featuring 3/8-inch keyless chuck, variable speed, 15+1 position clutch, LED light, and a versatile set of drill and driver bits. Ideal for DIY and home use.",
+                                            "features": [
+                                                "Real-time battery level display on 20V 1.5Ah Lithium-ion battery",
+                                                "15+1 torque settings and variable speed (0-550 RPM) for precise control",
+                                                "Compact 2.5 lb lightweight design with ergonomic rubberized grip",
+                                                "Built-in LED light for illuminating dark workspaces",
+                                                "3/8\" keyless chuck for quick, tool-free bit changes",
+                                                "Versatile kit includes 10 drill bits, 10 driver bits, magnetic flexible shaft, and extension bar",
+                                                "Suitable for wood, ceramics, plastics, and metal (up to 20mm wood, 10mm steel)",
+                                                "Perfect for DIY, furniture assembly, wall mounting, and small home projects"
+                                            ],
+                                            "specifications": {
+                                                "Model Name": "ACD316",
+                                                "Color": "Red",
+                                                "Power Source": "Battery Powered",
+                                                "Voltage": "20 Volts",
+                                                "Amperage": "15 Amps",
+                                                "Maximum Rotational Speed": "550 RPM",
+                                                "Maximum Chuck Size": "0.38 Inches",
+                                                "Maximum Torque": "280 Inch Pounds",
+                                                "Number of Speeds": "3",
+                                                "Speed": "550 RPM",
+                                                "Material": "Other",
+                                                "Item Weight": "3.65 Pounds",
+                                                "Maximum Power": "300 Watts",
+                                                "Drill Type": "Basic Drill",
+                                                "Battery Capacity": "1.5 Amp Hours",
+                                                "Is Electric": "No",
+                                                "UPC": "693495980041",
+                                                "Drilling Capacity Wood": "20 Millimeters",
+                                                "Drilling Capacity Metal": "10 Millimeters",
+                                                "Batteries Included": "Yes",
+                                                "Battery Cell Type": "Lithium Ion",
+                                                "Average Battery Life": "300 Hours",
+                                                "Item model number": "ACD316"
+                                            },
+                                            "inStock": true,
+                                            "bestseller": false,
+                                            "alibabaUrl": "",
+                                            "reviewSummary": {
+                                                "pros": [
+                                                    "Compact and lightweight for easy handling",
+                                                    "15+1 torque and variable speed allow precise control",
+                                                    "LED light illuminates work areas",
+                                                    "Comes with a complete kit of drill and driver bits",
+                                                    "Good value for the price for home and DIY projects"
+                                                ],
+                                                "cons": [
+                                                    "Battery only compatible with AVID POWER brand",
+                                                    "Not suitable for masonry or concrete walls",
+                                                    "Battery life can vary and sometimes runs out quickly"
+                                                ],
+                                                "verdict": "The AVID POWER 20V MAX Cordless Drill Set is an affordable, compact, and versatile drill ideal for beginners and DIY enthusiasts. Great value with a complete kit, though limited to non-professional home use and AVID POWER batteries."
+                                            },
+                                            "userReviews": [
+                                                {
+                                                    "username": "Damodar Adhikari",
+                                                    "rating": 5,
+                                                    "title": "The best affordable drill out there.",
+                                                    "review": "Works really well for small jobs around the house, furniture assembly, and home projects. Battery lasts long and comes with useful accessories. Very good product for the price.",
+                                                    "date": "June 30, 2025"
+                                                },
+                                                {
+                                                    "username": "Layton",
+                                                    "rating": 5,
+                                                    "title": "Great drill",
+                                                    "review": "Durable build, works well, holds charge, and even has a light. Price is unbeatable compared to high-end drills.",
+                                                    "date": "August 12, 2025"
+                                                },
+                                                {
+                                                    "username": "Janet Shuler",
+                                                    "rating": 5,
+                                                    "title": "Electric Drill",
+                                                    "review": "Durable, functional, compact, and easy to store. Perfect for mini drilling and DIY projects.",
+                                                    "date": "August 9, 2025"
+                                                }
+                                            ]
+                                        },
+                                        "earbuds": {
+                                            "name": "Best Wireless Earbuds",
+                                            "slug": "wireless-earbuds",
+                                            "description": "Experience premium audio quality with our top-rated wireless earbuds. From noise cancellation to crystal-clear calls.",
+                                            "image": "/premium-wireless-earbuds-in-charging-case-with-mod.jpg",
+                                            "productCount": "70+ Products Reviewed",
+                                            "subcategories": [
+                                                "Wireless Earbuds",
+                                                "Bluetooth Earbuds",
+                                                "In-Ear Earbuds",
+                                                "Affordable Earbuds",
+                                                "Premium Earbuds"
+                                            ],
+                                            "products": [
+                                                {
+                                                    "id": 1,
+                                                    "name": "Sony WF-1000XM5 Truly Wireless Bluetooth Noise Canceling Earbuds with Alexa Built-in, Black",
+                                                    "brand": "Sony",
+                                                    "price": 289.52,
+                                                    "originalPrice": 329.99,
+                                                    "category": "Bluetooth Earbuds",
+                                                    "rating": 3.8,
+                                                    "reviews": 4857,
+                                                    "badge": "",
+                                                    "image": "/images/earbud/49/49A.jpg",
+                                                    "images": [
+                                                        "/images/earbud/49/49B.jpg",
+                                                        "/images/earbud/49/49C.jpg",
+                                                        "/images/earbud/49/49D.jpg",
+                                                        "/images/earbud/49/49E.jpg"
+                                                    ],
+                                                    "description": "The Sony WF-1000XM5 are truly wireless Bluetooth earbuds featuring advanced noise cancellation, Alexa built-in, and high-resolution audio. With up to 8 hours of battery life per charge (24 hours with case) and fast charging, these earbuds deliver excellent sound quality, call clarity, and a comfortable fit for music, gaming, travel, and everyday use.",
+                                                    "features": [
+                                                        "Industry-leading noise cancellation with dual feedback microphones",
+                                                        "High-resolution audio and wide frequency reproduction (20 Hz to 40 kHz)",
+                                                        "Up to 8 hours listening time per charge, 24 hours with case",
+                                                        "Quick charge: 3 minutes gives 1 hour of playback",
+                                                        "Alexa built-in and voice control",
+                                                        "Comfortable and stylish in-ear design with multiple earbud tip sizes",
+                                                        "Bluetooth 5.3 connectivity and 10 meters range",
+                                                        "Sweatproof and water-resistant"
+                                                    ],
+                                                    "specifications": {
+                                                        "Model Name": "WF1000XM5/B",
+                                                        "Age Range": "Adult",
+                                                        "Color": "Black",
+                                                        "Ear Placement": "In Ear",
+                                                        "Form Factor": "In Ear",
+                                                        "Impedance": "16 Ohm",
+                                                        "Connectivity Technology": "Wireless",
+                                                        "Wireless Communication Technology": "Bluetooth 5.3",
+                                                        "Included Components": "Charging case, Headphones, Noise isolation earbud tips (SS/S/M/L 2 each), USB Type-C cable",
+                                                        "Skill Level": "All",
+                                                        "Item Weight": "0.4 ounces",
+                                                        "Battery Life": "8 Hours per charge (24 hours with case)",
+                                                        "Charging Time": "1.5 Hours",
+                                                        "Frequency Response": "20 Hz to 40 kHz",
+                                                        "Control Method": "Voice / Touch Control",
+                                                        "Audio Driver Type": "Dynamic Driver",
+                                                        "Audio Driver Size": "8.4 Millimeters",
+                                                        "Water Resistance Level": "Water Resistant",
+                                                        "Special Feature": "Built-In Voice Assistant, Fast Charging, High-resolution audio, Microphone Included, Multipoint Connection, Noise Cancellation, Sweatproof, Touch Control",
+                                                        "Product Dimensions": "3.86 x 2.11 x 3.46 inches",
+                                                        "Batteries": "1 A battery required (included)"
+                                                    },
+                                                    "inStock": true,
+                                                    "bestseller": false,
+                                                    "alibabaUrl": "https://www.alibaba.com/product-detail/Sony-WF-1000XM5-True-Wireless-Bluetooth-Earbuds_1600567382676.html",
+                                                    "reviewSummary": {
+                                                        "pros": [
+                                                            "Excellent noise cancellation and sound quality",
+                                                            "Comfortable, stylish design with multiple earbud sizes",
+                                                            "Alexa built-in and easy voice control",
+                                                            "Long battery life with fast charging",
+                                                            "Clear call quality even in noisy environments"
+                                                        ],
+                                                        "cons": [
+                                                            "Fit can be tricky for some users",
+                                                            "Battery life sometimes inconsistent",
+                                                            "Occasional connectivity or performance issues reported",
+                                                            "Some users report lower overall build quality"
+                                                        ],
+                                                        "verdict": "The Sony WF-1000XM5 earbuds are a strong choice for users seeking high-quality noise-canceling wireless earbuds with Alexa integration. They deliver excellent sound, call clarity, and comfort, although minor issues with fit and battery consistency may affect some users."
+                                                    },
+                                                    "userReviews": [
+                                                        {
+                                                            "username": "kbs",
+                                                            "rating": 5,
+                                                            "title": "Fantastic!",
+                                                            "review": "I bought these because I had a gift card to spend, and I wanted to completely separate from my Airpod Pro’s. The earbuds connect reliably and the sound is excellent.",
+                                                            "date": "December 22, 2023"
+                                                        },
+                                                        {
+                                                            "username": "Whyborg",
+                                                            "rating": 5,
+                                                            "title": "Wow, impressive upgrade",
+                                                            "review": "Previous refurbished models had issues, but these are flawless. Great noise cancellation and sound quality.",
+                                                            "date": "July 31, 2023"
+                                                        },
+                                                        {
+                                                            "username": "D",
+                                                            "rating": 5,
+                                                            "title": "Worth the price",
+                                                            "review": "Much better sound than Apple Earpods but fit can be fiddly. Great ANC too.",
+                                                            "date": "July 25, 2025"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": 2,
+                                                    "name": "Wireless Earbuds, ENC Noise Cancelling Sport Ear Buds with Multifunctional Touch Screen, Bluetooth 5.4 Headphones, Bass Stereo Sound, 5 EQ Over The Ear Earbuds for Sports/Workout/Gym-Black",
+                                                    "brand": "Jaddsa",
+                                                    "price": 25.99,
+                                                    "originalPrice": 199.99,
+                                                    "category": "Wireless Earbuds",
+                                                    "rating": 4.6,
+                                                    "reviews": 865,
+                                                    "badge": "",
+                                                    "image": "/images/earbud/50/50A.jpg",
+                                                    "images": [
+                                                        "/images/earbud/50/50B.jpg",
+                                                        "/images/earbud/50/50C.jpg",
+                                                        "/images/earbud/50/50D.jpg",
+                                                        "/images/earbud/50/50E.jpg"
+                                                    ],
+                                                    "description": "The Jaddsa TP01 are over-ear wireless Bluetooth earbuds with ENC noise cancellation, touchscreen controls, and 5 EQ modes. Designed for sports, workouts, and daily use, they deliver strong bass, clear highs, and a secure, comfortable fit. With IPX7 waterproofing, long battery life, and fast Bluetooth 5.4 connectivity, these earbuds provide an immersive hands-free listening experience.",
+                                                    "features": [
+                                                        "Adaptive ENC noise cancellation for calls and music",
+                                                        "Hi-Fi stereo sound with 5 EQ modes",
+                                                        "Multifunctional touchscreen control case",
+                                                        "Bluetooth 5.4 with stable ≤60ms latency and 33ft range",
+                                                        "Ergonomic over-ear design with silicone earhooks and 3 sizes of tips (S-L)",
+                                                        "IPX7 water-resistant for workouts and outdoor use",
+                                                        "Hands-free control for music, calls, and volume"
+                                                    ],
+                                                    "specifications": {
+                                                        "Model Name": "TP01",
+                                                        "Age Range": "All",
+                                                        "Color": "Black",
+                                                        "Ear Placement": "In Ear / Over Ear Hook",
+                                                        "Form Factor": "In Ear",
+                                                        "Impedance": "32 Ohm",
+                                                        "Connectivity Technology": "Wireless",
+                                                        "Wireless Communication Technology": "Bluetooth 5.4",
+                                                        "Included Components": "Eartip",
+                                                        "Item Weight": "5.3 ounces",
+                                                        "Water Resistance Level": "IPX7 Waterproof",
+                                                        "Bluetooth Range": "33 Feet",
+                                                        "Product Dimensions": "3.1 x 2.1 x 1.4 inches",
+                                                        "Batteries": "Rechargeable (included)"
+                                                    },
+                                                    "inStock": true,
+                                                    "bestseller": false,
+                                                    "alibabaUrl": "https://www.alibaba.com/product-detail/Wireless-ENC-Noise-Cancelling-Sport-Earbuds-TP01_1600567382678.html",
+                                                    "reviewSummary": {
+                                                        "pros": [
+                                                            "Clear and powerful sound with punchy bass",
+                                                            "Comfortable and secure fit for long sessions or workouts",
+                                                            "Adaptive ENC noise cancellation works well",
+                                                            "Touch controls and 5 EQ modes enhance usability",
+                                                            "Good battery life and fast Bluetooth connectivity"
+                                                        ],
+                                                        "cons": [
+                                                            "Over-ear design may not suit all users",
+                                                            "Build quality decent but feels cheap for some",
+                                                            "Bluetooth range may be limited in crowded environments"
+                                                        ],
+                                                        "verdict": "The Jaddsa TP01 earbuds are an excellent budget-friendly option for sports and casual use. They provide strong sound, reliable noise cancellation, and ergonomic design, making them ideal for workouts or daily listening."
+                                                    },
+                                                    "userReviews": [
+                                                        {
+                                                            "username": "Karla Gavarrete",
+                                                            "rating": 5,
+                                                            "title": "Great Sound and Comfortable Fit – Perfect Wireless Earbuds",
+                                                            "review": "Sleek and comfortable design, perfect for workouts. Clear and powerful sound with strong bass. Touch controls work effortlessly, and battery life lasts through the day.",
+                                                            "date": "August 26, 2025"
+                                                        },
+                                                        {
+                                                            "username": "Charles",
+                                                            "rating": 5,
+                                                            "title": "These wireless earbuds are fantastic!",
+                                                            "review": "Clear sound with deep bass, very comfortable, touch controls smooth, and earbuds stay secure during workouts. Excellent value for the price.",
+                                                            "date": "September 11, 2025"
+                                                        },
+                                                        {
+                                                            "username": "Kerstin G",
+                                                            "rating": 5,
+                                                            "title": "Comfortable, reliable earbuds, and deliver great sound for the price",
+                                                            "review": "Sound is clear with good bass. Different EQ settings are useful. Noise cancelling works well, especially outdoors. Highly recommend for the price.",
+                                                            "date": "August 22, 2025"
+                                                        }
+                                                    ]
+                                                },
+                                            ]
+                                        }
+                                    }
